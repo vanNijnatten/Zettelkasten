@@ -1,25 +1,17 @@
 ---
 tags: 👓 ✍️ 📑 🔗
 aliases: [uniue-zotero-identifier]
-cssclass: artcle
+cssclass: article
 publish: true
+authors:
+  - A. Author
+article-type: research/review
+journal: some-journal
+year: 1900
+cohorts: none
 ---
 # {{title}}
-**Authors:** {{authors}}
-**Journal:** {{journal}}
-**Year:** {{year-published}}
-**DOI:** {{doi}}
-
-**Cohorts:** {{cohorts}}
-**Tools:** {{tools-used}}
-
-**Languages:** {{languages}}
-**Source:** {{source}}
-**Dependencies:** {{dependencies}}
-**Tutorial:** {{tutorial}}
-**Website:** {(website)}
-
-**Tags:** {{tags}}
+**DOI:** ...
 
 > [!ABSTRACT]
 > Over here I should write shortly what this paper is about, and perhaps their main findings
@@ -27,3 +19,14 @@ publish: true
 > [!QUESTION]- Hypothesis
 > Some hypothesis and perhaps the aims
 
+## Methods
+...
+
+## Results
+...
+
+## Conclusion
+...
+
+## Discussion
+...
