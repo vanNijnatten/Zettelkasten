@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7ec3ad09bc64ad3",
+        "id": "3d9265d92af859f2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ideas/copd.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/copd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas/copd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ideas/copd.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,16 +140,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b7ec3ad09bc64ad3",
+  "active": "3d9265d92af859f2",
   "lastOpenFiles": [
+    "templates/idea-template.md",
+    "templates/math-template.md",
+    "readme.md",
+    "templates/article-template.md",
+    "templates/tool-template.md",
+    "templates/flashcard-template.md",
     "ideas/copd.md",
     "ideas/spirometry.md",
-    "ideas/questionaires.md",
-    "templates/idea-template.md",
-    "templates/article-template.md",
-    "templates/math-template.md",
-    "templates/tool-template.md",
-    "readme.md",
-    "templates/flashcard-template.md"
+    "ideas/questionaires.md"
   ]
 }
