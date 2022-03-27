@@ -1,3 +1,5 @@
 # Obsidian.md workspace
 .obsidian/cache
+.obsidian/graph.json
+.obsidian/workspace
 .DS_Store

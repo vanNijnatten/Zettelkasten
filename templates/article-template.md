@@ -31,5 +31,5 @@ cohorts: none
 ## Discussion
 ...
 
-# References
+## References
 ...

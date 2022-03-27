@@ -1,13 +1,13 @@
 ---
-aliases: [Chronic Obstructive Pulmonary Disease]
+tags: 💨 💡 ✍️
+aliases:
+  - COPD
+  - Chronic Obstructive Pulmonary Disease
+  - COLD
+  - Chronic Obstructive Lung Disease
 cssclass: idea
 publish: true
 ---
-# COPD
+# Chronic Obstructive Pulmonary Disease (COPD)
+  - [[copd-diagnosis|COPD diagnosis]]
 
-**COPD Diagnosis**
-[FEV<sub>1</sub>](spirometry#FEV<sub>1</sub>)% predicted < 75% or
-[FEV<sub>1</sub>/FVC](spirometry#FEV<sub>1</sub>/FVC) < 0.7 .
-
-**GOLD**
-The Global Initiative for Chronic Obstructive Lung Disease.

@@ -1,11 +1,12 @@
+---
+tags: 💨 💡 ✍️
+aliases:
+  - questionaires
+  - questionaire
+cssclass: idea
+publish: true
+---
 # Questionaires
-- - -
-**SGRQ (questionaire)**
-St. George’s Respiratory Questionnaire
-- - -
-**CAT (questionaire)**
-COPD Assessment Test
-- - -
-**CCQ (questionaire)**
-Clinical COPD Questionnaire
-- - -
+  - [[SGRQ]]
+  - [[CCQ]]
+  - [[CAT]]
