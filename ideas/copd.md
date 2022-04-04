@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: 🏡 💨 💡 ✍️
 aliases:
   - COPD
   - Chronic Obstructive Pulmonary Disease
@@ -9,5 +9,8 @@ cssclass: idea
 publish: true
 ---
 # Chronic Obstructive Pulmonary Disease (COPD)
+  - [[pulmonary-system|Pulmonary system]]
   - [[copd-diagnosis|COPD diagnosis]]
-
+  - [[copd-pathology|COPD pathology]]
+  - COPD severity
+  - COPD
