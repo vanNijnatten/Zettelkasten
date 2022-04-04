@@ -14,3 +14,4 @@ publish: true
   - [[copd-pathology|COPD pathology]]
   - COPD severity
   - COPD
+  - [[inflammation]]
