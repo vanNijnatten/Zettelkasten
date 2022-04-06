@@ -15,3 +15,4 @@ publish: true
   - COPD severity
   - COPD
   - [[inflammation]]
+  - [[smoking]]
