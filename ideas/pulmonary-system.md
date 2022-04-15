@@ -6,6 +6,5 @@ aliases:
 cssclass: idea
 publish: true
 ---
-
 # Pulmonary System
 ...

@@ -9,7 +9,7 @@ This is a new zettelkasten project, to organize my thoughts on the many papers I
 
 # Entry points to the digital garden
  - [[copd]]
- - 
+ - [[writing]]
 
 # How to take notes from a journal article
 1. Title - pull out your keywords

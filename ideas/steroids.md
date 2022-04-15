@@ -5,7 +5,6 @@ aliases:
 cssclass: idea
 publish: true
 ---
-
 # Steroids
 
  - [[glucocorticoids]]

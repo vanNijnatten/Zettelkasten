@@ -6,13 +6,19 @@ cssclass: idea
 publish: true
 ---
 
+See also [[machine-learning|Machine Learning]]
+
 # Statistics
+These are some ideas about _Statistics_ to write about:
+
  - Definitions
    - Continuous/categorical
    - Paired/independent
    - Quantitative/qualitative
    - Parametric/non-parametric
-   - 
+   - ..
+ - Probability Theory
+   - Bayes Theorem
  - Distributions
    - https://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm
    - Uniform distribution
@@ -51,6 +57,7 @@ publish: true
  - Dementional Reduction
    - Principal Component Analysis (PCA)
    -  UMAP
+ - Imputation 
  - Simplification of models
    - Akaike information criterion (AIC)
  - Bootstrapping analysis: random 23 from the severe group and rerun the analysis.
