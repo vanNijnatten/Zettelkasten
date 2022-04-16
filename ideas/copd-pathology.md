@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases: 
   - copd-pathology
   - copd pathology

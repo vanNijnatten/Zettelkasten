@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases: 
   - medical-writing
   - medical writing

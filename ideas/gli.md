@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases: 
   - gli-2012
   - gli 2012

@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases: 
   - fev1/fvc
   - fev<sub>1</sub>/fvc

@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases:
   - CCQ
   - Clinical COPD Questionnaire

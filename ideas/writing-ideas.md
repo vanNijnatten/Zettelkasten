@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases: 
   - writing-ideas
   - writing ideas
@@ -8,7 +8,6 @@ publish: true
 ---
 # Writings Ideas
 - [[bioinformatics-writing|Bioinformatics]]
-- [[computer-science-writing|Computer Science]]
 - [[linux-writing|Linux]]
 - [[machine-learning|Machine Learning]]
 - [[medical-writing|Medical]]

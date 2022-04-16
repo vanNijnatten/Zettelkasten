@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases: 
   - programming
 cssclass: idea
@@ -9,10 +9,18 @@ publish: true
 These are some ideas about _Programming_ to write about:
 
 - Programming 101
-- [[git|Git]] and GitHub
-- Data Version Control (DVC)
-- Testing and Debugging
-- Continuous Integrations/Delivery
+  - Basic principles
+  - Clean Code
 - Languages
   - [[r-writing|R]]
   - [[python-writing|Python]]
+- Versioning
+  - [[git|Git]] and GitHub
+  - Data Version Control (DVC)
+- Ecosystem
+  - Code style/Style guides
+  - Continuous Integrations/Delivery
+  - Testing and Debugging
+- Other
+  - Operating System basics
+  - Cyber Security

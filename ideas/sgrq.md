@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases:
   - SGRQ
   - St. George’s Respiratory Questionnaire

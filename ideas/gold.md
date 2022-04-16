@@ -1,5 +1,5 @@
 ---
-tags: 💨 💡 ✍️
+tags: ✍️
 aliases:
   - GOLD
   - Global Initiative for Chronic Obstructive Lung Disease
