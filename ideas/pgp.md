@@ -10,13 +10,35 @@ cssclass: idea
 publish: true
 ---
 # PGP
-Pretty Good Privacy (PGP is a way to sign messages and to encrypt and decrypt files. The GNU Privacy Guard (GPG) is an implementation of the OpenPGP standard (RFC4880).
+See also [[git|Git]] and [[github|GitHub]].
+
+## What is PGP?
+Pretty Good Privacy (PGP) is a way to sign messages, to validate the ID of the sender, and to encrypt and decrypt files, messages and emails. It uses symmetric key encryption, and public-key encryption. The GNU Privacy Guard (GPG) is an implementation of the OpenPGP standard (RFC4880) 
+
+I personally use GPG and only to sign commits in [[git|Git]].
 
 ## Installation
 GPG can easily be installed using the terminal on a **Mac** using  `brew install gnupg`, **Linux** using `sudo apt install gnupg`, or on Windows using the setup executable downloaded from [GPG4Win](https://gpg4win.org/download.html).
 
-## Understanding GPG
+## Understanding PGP
 See also [this blogpost](https://www.varonis.com/blog/pgp-encryption)
+
+### Scenario 1: signing Git commits
+1. 
+
+### Scenario 2: validating an identity
+1.
+
+### Scenario 3: sending private emails/messages
+1. User A wants to send User B a private email
+2. User B generates a public and private key
+3. User B keeps the private key and sends back the public key
+4. User A encrypts their message using the public key
+5. User A sends the private encrypted message
+6. User B decrypts the message with the private key
+
+### Scenario 4: encrypting/decrypting files
+1. 
 
 ## Usage
 Create a signing key
