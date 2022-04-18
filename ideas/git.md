@@ -40,7 +40,7 @@ If you work with remote branches over SSH, you also need to create an SSH key an
 Apart from the basic, but important, settings that should be set for git to work properly, some more can be set
 
 ### Commit signing
-Commits to a Git repository can be signed using [[gpg|GPG]], which verifies the origin of the commit. For [[github|GitHub]], a GPG key must be an RSA-4096 key. After a key has been created, the id of the signing key can be obtained using `gpg --list-secret-keys --keyid-format LONG "9002122+vanNijnatten@users.noreply.github.com"`. The id is located on the first line, just after "rna4096/". Note that for **Windows**, the following commands should be executed in Git Bash.
+Commits to a Git repository can be signed using [[pgp|GPG]], which verifies the origin of the commit. For [[github|GitHub]], a GPG key must be an RSA-4096 key. After a key has been created, the id of the signing key can be obtained using `gpg --list-secret-keys --keyid-format LONG "9002122+vanNijnatten@users.noreply.github.com"`. The id is located on the first line, just after "rna4096/". Note that for **Windows**, the following commands should be executed in Git Bash.
 Once the signing keys is obtained, three Git options must be set: `git config --global user.signingKey 2F01902897288144`, where "2F01902897288144" is the id of the signing key. Additionally, `git config --global commit.gpgsign true` and `git config --global gpg.program gpg` must be set. (For **Windows**, the path to the gpg program must be absolute: `git config --global gpg.program "/c/Program Files (x86)/GnuPG/bin/gpg.exe"`). This makes sure commits are signed by a GPG key and that unsigned commits are not allowed.
 
 For **Mac**, pinentry could also be installed using HomeBrew (`brew install pinentry-mac`), and the line "pinentry-program /usr/local/bin/pinentry-mac" should be appended to file "~/.gnupg/gpg-agent.conf". All "gpg-agent" instances should be killed.
@@ -78,7 +78,6 @@ git branch -D (branch-name) -> will delete the label
 git merge (branch-B) -> from branch-A merge branch-B into branch-A
 git remote add origin (url) 
 git remote set-url origin (url)
-git stash (https://medium.com/free-code-camp/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)
 git stash save -u "message" -> include-untracked
 git stash list
 git stash apply stash@{1}
