@@ -50,6 +50,7 @@ To verify if the signing of commits, make a commit. If the Git option `commit.gp
 ## Understanding Git
 
 ## Usage
+```Bash
 git init
 git clone
 git add .
@@ -91,13 +92,15 @@ git push origin v1.2
 git push origin --tags
 git push origin --delete <tag_name>
 git reflog
-hooks (?)
-Detached HEADS
+# hooks / scripts (?)
+# Detached HEADS
+# .gitignore | .gitallow(?) | .gitattributes | .gitconfig
+```
 
 ## Useful commands
 
 
-```git
+```Bash
 # Cheatsheet
 # https://dev.to/rubiin/one-list-to-rule-them-all-1kh5#computer-science
 # https://github.com/tiimgreen/github-cheat-sheet#readme

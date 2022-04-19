@@ -16,13 +16,19 @@ These are some ideas about _Statistics_ to write about:
    - Paired/independent
    - Quantitative/qualitative
    - Parametric/non-parametric
-   - ..
+   - Sample/Population
+   - biased/unbiased
  - Probability Theory
    - Bayes Theorem
+ - Descriptive statistics
+   - Arithmetic mean / Weighted average / Geometric mean / Harmonic mean
+   - Median / Mode
+   - Range / IQR / percentiles / outliers (combination of parameters)
+   - Standard Deviation / variance / degrees of freedom/ errors/deviations / sum of squared errors from the mean
  - Distributions
    - https://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm
    - Uniform distribution
-   - Gaussian/Normal distibution
+   - Gaussian/Normal distibution + skewedness + z-scores
    - Log Normal Distribution
    - Poisson distribution
    - (Negative) Binomial distribution

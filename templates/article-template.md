@@ -13,11 +13,8 @@ cohorts: none
 # {{title}}
 **DOI:** ...
 
-> [!ABSTRACT]
-> Over here I should write shortly what this paper is about, and perhaps their main findings
-
-> [!QUESTION] Hypothesis
-> Some hypothesis and perhaps the aims
+## Abstract
+Over here I should write shortly what this paper is about, their hypothesis and their main findings
 
 ## Methods
 ...

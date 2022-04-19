@@ -23,13 +23,11 @@ GPG can easily be installed using the terminal on a **Mac** using  `brew install
 ## Understanding PGP
 See also [this blogpost](https://www.varonis.com/blog/pgp-encryption)
 
-### Scenario 1: signing Git commits
-1. 
-
-### Scenario 2: validating an identity
+### Scenario 1: validating an identity
+This is the type of PGP action that is done by GitHub.
 1.
 
-### Scenario 3: sending private emails/messages
+### Scenario 2: sending private emails/messages
 1. User A wants to send User B a private email
 2. User B generates a public and private key
 3. User B keeps the private key and sends back the public key
@@ -37,7 +35,7 @@ See also [this blogpost](https://www.varonis.com/blog/pgp-encryption)
 5. User A sends the private encrypted message
 6. User B decrypts the message with the private key
 
-### Scenario 4: encrypting/decrypting files
+### Scenario 3: encrypting/decrypting files
 1. 
 
 ## Usage
