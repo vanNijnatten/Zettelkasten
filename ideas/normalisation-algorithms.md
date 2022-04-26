@@ -10,6 +10,9 @@ aliases:
 cssclass: idea
 publish: true
 ---
+
+See also [[statistics-writing|statistics]]
+
 # Normalisation
 
 ## CPM (EdgeR)

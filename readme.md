@@ -40,3 +40,9 @@ This is a new zettelkasten project, to organize my thoughts on the many papers I
 
 #👓 - To read
 #✍️ - To edit
+
+**Tags to color the  graph view**
+#🔖 - What I am editing atm
+#🌟 - Very important
+#⭐️ - Important
+#📒 - Writing ideas
