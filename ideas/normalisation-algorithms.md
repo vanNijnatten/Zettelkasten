@@ -30,6 +30,13 @@ Variance Stabilizing Transformation
 
 ## Voom (Limma)
 
+## Quantile Normalisation
+(methylation?)
+doi: 10.1101/012203
+r package: quantro?
+
+
 ## Others
  - RLE (DESeq2)
  - MRN (???)
+ - 
