@@ -1,11 +1,15 @@
 ---
-tags: ✍️
+tags: 🏡 ✍️
 aliases: 
+  - gene
   - genes
 cssclass: idea
 publish: true
 ---
-# Genes
+# Gene
+...
+
+# Interesting Genes
 This is a list of interesting genes.
 
 WNT - DKK1 -> Bone density?

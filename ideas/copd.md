@@ -1,5 +1,5 @@
 ---
-tags: 🏡 ✍️
+tags: ✍️
 aliases:
   - COPD
   - Chronic Obstructive Pulmonary Disease
