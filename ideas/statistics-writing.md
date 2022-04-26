@@ -51,6 +51,10 @@ These are some ideas about _Statistics_ to write about:
    - Mann-Whitney U test
    - Wilcoxon Rank Sum test
    - Wilcoxon Signed Rank test
+ - Multiple Testing Correction
+   - P-Value
+   - Benjamini Hochberg FDR (q-Value)
+   - Bonferroni
  - Correlation
    - Pearson
    - Spearman
