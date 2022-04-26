@@ -7,4 +7,9 @@ publish: true
 ---
 # Lung disease
 - [[copd]]
+- silicosis
+- asthma
+- ARDS
+- pulmonary fibrosis
+- pulmonary hypertension
 - 
