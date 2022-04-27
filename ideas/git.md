@@ -40,7 +40,7 @@ If you work with remote branches over SSH, you also need to create an SSH key an
 Apart from the basic, but important, settings that should be set for git to work properly, some more can be set
 
 ### Commit signing
-Commits to a Git repository can be signed using [[pgp|GPG]], which verifies the origin of the commit. For [[github|GitHub]], a GPG key must be an RSA-4096 key. After a key has been created, the id of the signing key can be obtained using `gpg --list-secret-keys --keyid-format LONG "9002122+vanNijnatten@users.noreply.github.com"`. The id is located on the first line, just after "rna4096/". Note that for **Windows**, the following commands should be executed in Git Bash.
+Commits to a Git repository (a directory tracked by Git) can be signed using [[pgp|GPG]], which verifies the origin of the commit. For [[github|GitHub]], a GPG key must be an RSA-4096 key. After a key has been created, the id of the signing key can be obtained using `gpg --list-secret-keys --keyid-format LONG "9002122+vanNijnatten@users.noreply.github.com"`. The id is located on the first line, just after "rna4096/". Note that for **Windows**, the following commands should be executed in Git Bash.
 Once the signing keys is obtained, three Git options must be set: `git config --global user.signingKey 2F01902897288144`, where "2F01902897288144" is the id of the signing key. Additionally, `git config --global commit.gpgsign true` and `git config --global gpg.program gpg` must be set. (For **Windows**, the path to the gpg program must be absolute: `git config --global gpg.program "/c/Program Files (x86)/GnuPG/bin/gpg.exe"`). This makes sure commits are signed by a GPG key and that unsigned commits are not allowed.
 
 For **Mac**, pinentry could also be installed using HomeBrew (`brew install pinentry-mac`), and the line "pinentry-program /usr/local/bin/pinentry-mac" should be appended to file "~/.gnupg/gpg-agent.conf". All "gpg-agent" instances should be killed.
@@ -48,12 +48,36 @@ For **Mac**, pinentry could also be installed using HomeBrew (`brew install pine
 To verify if the signing of commits, make a commit. If the Git option `commit.gpgsign` is set to `true`, the commit should be signed to be accepted. Additionally, the signatues of commits can be shown using `git show head --show-signature` and `git log --show-signature -1`.
 
 ## Understanding Git
+To understand Git, it's best to work with Git. This section does not include any explanation on how to work with [[github|GitHub]]. 
+
+### Initializing and Cloning repositories
+After configuring Git, a repository must be made or **initialized**. This can be done with `git init` in an empty directory. If the repository is already made somewhere else, a copy or **clone** can be made over [[https|HTTPS]] using `git clone https://website.com/username/repo.git` or over [[ssh|SSH]] using `git clone git@website.com:username/repo.git`. This will create a new directory named after 'repo' in 'repo.git'. The Git repository will open the 'master' or 'main' [[git#branches|branch]].
+
+### Adding, removing and excluding files
+Files created in or copied to the repository are not automatically part of the repository and removed files are not automatically removed from the repository. These changes first need to be added to the the repository, which is called 'staging'. To see which files are new, changed or deleted, `git status` can be run. If any changes to the repository are found, these can be added using `git add path/to/file.txt`. A shortcut to add all changes that are listed is `git add .`.
+A 'staged' file or change is marked to be part of the repository, but not actually part of the repository. For this to happen, we need to commit the changes. This is done by running `git commit -m "Commit message"`, in which the 'Commit message' should be describing the changes that are made in all changes. For example "Feature X was implemented (Task nr 007)", or "Differential analysis of COPD vs Non COPD".
+If the previous commit did not include all intended changes, than these should be staged. Next, the previous commit can be changed using `git commit --amend --no-edit`. The '--no-edit' option preserves the previous commit message, though a new message can also be set using the '-m' option.
+These edits are done on the current [[git#Branch|branch]].
+
+### Seeing changes
+diff, blame
+
+### Creating, changing and deleting branches
+
+### Branching strategy
+
+### Remote repositories, pushing, pulling, merging
+
+### Restoring files
+
+### The stash
 
 ## Usage
 ```Bash
 git init
-git clone
+git clone git@website.com:username/repo.git
 git add .
+git rm file.txt
 git commit -m "commit message"
 git commit --amend -m "rewrite commit message" <- without any staged file(s)
 git commit --amend --no-edit <- with staged file(s)
