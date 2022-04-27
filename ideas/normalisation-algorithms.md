@@ -25,6 +25,7 @@ _LogCPM_ is the log (base 2) transformed version of _CPM_. The calculation howev
 See also [[CPM.xlsx]].
 
 ## RPKM (EdgeR)
+https://www.youtube.com/watch?v=TTUrtCY2k-w
 
 ## TMM (EdgeR)
 
@@ -42,4 +43,6 @@ r package: quantro?
 ## Others
  - RLE (DESeq2)
  - MRN (???)
+ - TPM/FPM(?) - https://www.youtube.com/watch?v=TTUrtCY2k-w
+ - FPKM - https://www.youtube.com/watch?v=TTUrtCY2k-w
  - 
