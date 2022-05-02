@@ -1,12 +1,16 @@
 ---
 tags: 🏡 ✍️
 aliases: 
+  - cellular pathway
+  - cellular pathways
+  - signaling pathway
+  - signaling pathways
   - pathway
   - pathways
 cssclass: idea
 publish: true
 ---
-# Pathway
+# Signaling Pathway
 ...
 
 # Interesting Pathways
