@@ -3,5 +3,6 @@
   "cm-show-whitespace-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "note-refactor-obsidian"
 ]
