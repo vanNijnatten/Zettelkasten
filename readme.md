@@ -7,7 +7,7 @@ publish: true
 # Zettelkasten project for my PhD
 This is a new zettelkasten project, to organize my thoughts on the many papers I read for my PhD. The program I use to take these notes is [Obsidian](https://www.obsidian.md). Therefore the notes are written in plain text, using Obsidian [markdown](https://help.obsidian.md/How+to/Format+your+notes), with some [modifications](https://help.obsidian.md/How+to/Use+callouts) and [extensions](https://obsidian.md/plugins). It is even possible to include [flashcards](https://github.com/NeuraCache/markdown-flashcards-spaced-repetition).
 
-# Entry points to the digital garden
+## Entry points to the digital garden
  - [[databases]]
  - [[gene]]
  - [[lung-disease]]
@@ -15,7 +15,19 @@ This is a new zettelkasten project, to organize my thoughts on the many papers I
  - [[snp]]
  - [[writing]]
 
-# How to take notes from a journal article
+**Current Focus (papers):**
+```dataview
+list
+from #🔖  and #🏛 and -#🏡 
+```
+
+**Current Focus (ideas):**
+```dataview
+list
+from #🔖  and -#🏛 and -#🏡 
+```
+
+## How to take notes from a journal article
 1. Title - pull out your keywords
 2. Abstract - results + methods
 3. Intro - first and last paragraph of Intro
@@ -24,6 +36,10 @@ This is a new zettelkasten project, to organize my thoughts on the many papers I
 6. Results - key results/figures
 7. Limitations
 8. References - pull out useful ones
+
+## How to take general notes
+**Cornell Metod**
+Title, notes, keywords, summary
 
 ## Tags
 #🏡 - Home (entry point)
