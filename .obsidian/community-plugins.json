@@ -4,5 +4,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
   "table-editor-obsidian",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "highlightr-plugin"
 ]
