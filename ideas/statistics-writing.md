@@ -20,7 +20,7 @@ These are some ideas about _Statistics_ to write about:
    - biased/unbiased
  - Probability Theory
    - Bayes Theorem
- - Descriptive statistics
+ - [[descriptive-statistics|Descriptive statistics]]
    - Arithmetic mean / Weighted average / Geometric mean / Harmonic mean
    - Median / Mode
    - Range / IQR / percentiles / outliers (combination of parameters)
