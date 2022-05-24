@@ -10,6 +10,7 @@ This is a new zettelkasten project, to organize my thoughts on the many papers I
 ## Entry points to the digital garden
  - [[databases]]
  - [[gene]]
+ - [[immune-system]]
  - [[lung-disease]]
  - [[signaling-pathway]]
  - [[snp]]
