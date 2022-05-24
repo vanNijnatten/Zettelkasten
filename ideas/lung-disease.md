@@ -12,4 +12,5 @@ publish: true
 - ARDS
 - pulmonary fibrosis
 - pulmonary hypertension
+- IPF (Idiopathic Pulmonary Fibrosis)
 - 
