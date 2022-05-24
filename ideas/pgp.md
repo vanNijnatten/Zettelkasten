@@ -19,6 +19,7 @@ I personally use GPG and only to sign commits in [[git|Git]].
 
 ## Installation
 GPG can easily be installed using the terminal on a **Mac** using  `brew install gnupg`, **Linux** using `sudo apt install gnupg`, or on Windows using the setup executable downloaded from [GPG4Win](https://gpg4win.org/download.html).
+Also, on a Mac, install pinentry using `brew install pinentry-mac` and add the line `pinentry-program /usr/local/bin/pinentry-mac` to the file `~/.gnupg/gpg-agent.conf`. The location of pinentry-mac can be determined using `which pinentry-mac`.
 
 ## Understanding PGP
 See also [this blogpost](https://www.varonis.com/blog/pgp-encryption)
@@ -77,3 +78,6 @@ Decrypt a file
 ```Bash
 gpg -d test.txt.gpg
 ```
+
+## Debugging
+There is a possibility that when commiting a change in Git, it asks for a password, or nothing at all an just fails. [This Stackoverflow entry](https://stackoverflow.com/questions/41502146/git-gpg-onto-mac-osx-error-gpg-failed-to-sign-the-data) shows how to handle this error. However, you can restart the deamon using `gpgconf --kill gpg-agent` and `gpg-agent --deamon`, perhaps with the `--homedir` option specified.
