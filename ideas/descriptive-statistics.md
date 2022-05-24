@@ -45,9 +45,7 @@ $$SD=\sqrt{Variance}$$
 AKA:
 $$SD=\sqrt{\frac{\sum\left(Y-\overline{Y}\right)^2}{n}}$$
 ## Coefficient of Variation
-SD expressed as a percentage of the mean. This is a biased estimator of the population V.
+SD expressed as a percentage of the mean. This is a biased estimator of the population V. Also called 'relative standard deviation'.
 $$V=\frac{SD\times100}{\overline{Y}}$$
 The following is corrected for bias:
 $$V^\ast=\left(1+\frac{1}{4n}\right)V$$
-
-
