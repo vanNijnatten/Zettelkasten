@@ -33,6 +33,16 @@ These are some ideas about _Statistics_ to write about:
    - Poisson distribution
    - (Negative) Binomial distribution
    - Exponential distribution
+   - Dunno
+     - Probability density function (PDF)
+     - Probability mass function (PMF)
+     - Cumulative probability distribution (CDF)
+       - Cumulative probability distribution for DISCRETE random variables (CMF)
+       - Cumulative probability distribution for CONTINUOUS random variables (CDF)
+     - Summary of probability distributions
+     - Quantiles function
+     - [https://towardsdatascience.com/quantiles-key-to-probability-distributions-ce1786d479a9?source=rss----7f60cf5620c9---4](https://towardsdatascience.com/quantiles-key-to-probability-distributions-ce1786d479a9?source=rss----7f60cf5620c9---4)
+     - [https://link.medium.com/30JBscEqqhb](https://link.medium.com/30JBscEqqhb)
    - 
    - T-distribution
    - F distribution
@@ -59,11 +69,14 @@ These are some ideas about _Statistics_ to write about:
    - Pearson
    - Spearman
  - Linear Regression
-   - Linear Models
+   - Linear Models / Simpel Linear Regression (?)
    - Mixed Linear Models
    - Generalized Linear Models
    - Non-Negative Least Squares
    - Support Vector Machine
+ - Non-Linear Regression
+   - Logistic regression
+   - Local regression
  - Dementional Reduction
    - Principal Component Analysis (PCA)
    -  UMAP
