@@ -17,5 +17,9 @@ Cell types
 - b-cells
   - plasma cells
 - t-cells
+  - Treg-cells
+  - Th-cells
+  - T-killer?
 - neutrophils
 - eosinophils
+
