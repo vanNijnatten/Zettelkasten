@@ -1,5 +1,5 @@
 ---
-tags: ✍️
+tags: 
 aliases:
   - questionaires
   - questionaire
@@ -10,3 +10,5 @@ publish: true
   - [[SGRQ]]
   - [[CCQ]]
   - [[CAT]]
+  - [[AQLA]]
+  - [[ACQ]]
