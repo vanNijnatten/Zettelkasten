@@ -5,10 +5,10 @@ aliases:
 cssclass: article
 publish: true
 authors:
-  - Ruth Pidsley1†
-  - Chloe C Y Wong1
-  - Manuela Volta1
-  - Katie Lunnon1
+  - Ruth Pidsley
+  - Chloe C Y Wong
+  - Manuela Volta
+  - Katie Lunnon
   - Jonathan Mill
   - Leonard C Schalkwyk
 article-type: research

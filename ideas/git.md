@@ -13,7 +13,7 @@ publish: true
 See also [[github|GitHub]].
 
 ## What is Git?
-Git is a tpe of source code management (SCM). SCM tracks changes in files over time so that older versions of those can be retrieved at a later time. Specifically these files are source-code files for specific software, even though it is possible to do this with any type of file.
+Git is a type of source code management (SCM). SCM tracks changes in files over time so that older versions of those can be retrieved at a later time. Specifically these files are source-code files for specific software, even though it is possible to do this with any type of file.
 
 Many people in software development used to version control their project's source code by archiving the directory of the project and adding a timestamp to the name of the newly created archive. This zipped archive was perhaps then even copied to an external harddisk or server.
 In academia, when people write a paper or do a project, they still do it like this. They write the paper in Word, and during editting they will make versions of the paper. When the (almost) finished paper is send to a colleague to be checked, a date is aded to the name. And when a revised version of the paper is send back, the name of the persion that did check the paper is added to the name of the paper. Well, at least in the lab I am currently working.

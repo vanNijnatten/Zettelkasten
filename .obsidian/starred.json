@@ -4,6 +4,21 @@
       "type": "file",
       "title": "readme",
       "path": "readme.md"
+    },
+    {
+      "type": "file",
+      "title": "methylation",
+      "path": "ideas/methylation.md"
+    },
+    {
+      "type": "file",
+      "title": "bibikova-2009",
+      "path": "papers/bibikova-2009.md"
+    },
+    {
+      "type": "file",
+      "title": "pidsley-2013",
+      "path": "papers/pidsley-2013.md"
     }
   ]
 }
