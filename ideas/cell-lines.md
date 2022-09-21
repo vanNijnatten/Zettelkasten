@@ -16,3 +16,6 @@ Human bronchial epithelial cell line
 ## U937
 "human monocytic cell line"
 human histiocytic lymphoma cell line
+
+## A549
+lung carcinoma epithelial cells
