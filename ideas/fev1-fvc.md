@@ -24,5 +24,5 @@ publish: true
 ...
 
 ##  FEV<sub>1</sub>/FVC
-Also known as Tiffeneau-Index. This is the fraction of how much of your lung capacity are able to exhale in 1 second; airflow limitation/obstruction.
+Also known as Tiffeneau-Index. This is the fraction of how much of your lung capacity you are able to exhale in 1 second; airflow limitation/obstruction.
 Normal values are between 0.7 and 0.8. Used for COPD diagnosis (FEV<sub>1</sub>/FVC < 0.7)
