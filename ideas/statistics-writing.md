@@ -65,6 +65,7 @@ These are some ideas about _Statistics_ to write about:
    - P-Value
    - Benjamini Hochberg FDR (q-Value)
    - Bonferroni
+   - Sidak (https://en.wikipedia.org/wiki/%C5%A0id%C3%A1k_correction)
  - Correlation
    - Pearson
    - Spearman
