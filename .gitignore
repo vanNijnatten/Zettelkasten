@@ -1,8 +1,11 @@
 # Obsidian.md workspace
 .obsidian/cache
+.obsidian/plugins/*
 .obsidian/graph.json
 .obsidian/workspace
 .obsidian/workspace.json
+
+# MaxOS
 .DS_Store
 Zotero-Library.bib
 
