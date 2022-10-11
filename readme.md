@@ -20,12 +20,14 @@ This is a new zettelkasten project, to organize my thoughts on the many papers I
 ```dataview
 list
 from #🔖  and #🏛 and -#🏡 
+where !contains(file.name, "template")
 ```
 
 **Current Focus (ideas):**
 ```dataview
 list
 from #🔖  and -#🏛 and -#🏡 
+where !contains(file.name, "template")
 ```
 
 ## How to take notes from a journal article
