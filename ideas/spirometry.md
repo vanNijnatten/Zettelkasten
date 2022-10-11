@@ -16,3 +16,5 @@ publish: true
   - [[rv-tlc|RV/TLC]]
   - [[tlco-dlco-kco|Diffusion DLCO]]
   - [[tlco-dlco-kco|Diffusion KCO]]
+
+Nitrogen washout curve?? (interesting: Δ N2, after-before?)

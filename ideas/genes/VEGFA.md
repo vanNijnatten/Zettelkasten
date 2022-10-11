@@ -1,8 +1,11 @@
 ---
-tags: 🏡 ✍️ 🔖
+tags: ✍️ 🔖
 aliases: 
   - VEGFA
+  - VEGF-A
   - VEGF
+  - Vascular Endothelial Growth Factor A
+  - Vascular Endothelial Growth Factor
 related:
   - VEGFB
   - VEGFR1
@@ -15,7 +18,6 @@ publish: true
 ## Summary
 ...
 
-
 ## Research
 ### No reference:
 - Is a ligand for both _[[VEGFR1]]_ and _[[VEGFR2]]_.
@@ -24,27 +26,37 @@ publish: true
 - Endothelial cell survival [^Yancopoulos2000]
 - Maintains angiogenesis [^Yancopoulos2000]
 - Involved in small airway remodelling [^Wang2017]
-- Alveolar destruction in [[COPD]] [^Kawamoto2018]
+- Reflects alveolar destruction in [[COPD]] [^Kawamoto2018]
+  - VEGF (gene/protein?) expression levels in induced sputum from the lower respiratory tract were lower in the non-[[COPD]] smoking subjects compared to non-smokers, and even lower in smokers with  [[COPD]]. [^Kawamoto2018]
+  - VEGF (gene/protein?) expression levels decreased with increased severity of [[computed-tomographic|LAA grade]] [^Kawamoto2018]
+  - VEGF (gene/protein?) expression levels were inversly (negetively) correlated with [[spirometry|Δ N<sub>2</sub>]] in [[COPD]] patients with severe emphysema [^Kawamoto2018]
 - Signalling pathways have been assiciated with
-  - COPD development [^Boeck2015]
-  - COPD phenotypes such as emphysema [^Boeck2015]
+  - [[COPD]] development [^Boeck2015]
+  - [[COPD]] phenotypes such as emphysema [^Boeck2015]
 - Polymorphisms:
   - risk of lung cancer [^Liu2015][^Maeda2013][^Naykoo2017]
   - changes in lung function [^Simpson2012]
 - Expressed in 
   - tissue rich in blood vessels [^Lu2016]
-  - inflammatory cells [^Lu2016]
+  - inflammatory cells [^Lu2016] ???
   - lymphatic tissue???
 - Nessessary for building lung tissue architecture [^LaddhaKulkarni2019]
 - Involved in bronchial microvascular changes [^LaddhaKulkarni2019]
 - Involved in the inflammatory response in lung [^LaddhaKulkarni2019]
-- Increased expression in COPD exacerbation, not after exacerbation [^Valipour2008]
+- Increased expression in [[COPD]] exacerbation, not after exacerbation [^Valipour2008]
 - Maintenance of
   - endothelial cells [^WestergrenThorsson2018]
   - epithelial cells viability [^WestergrenThorsson2018]
-- Lose of _[[VEGFA|VEGF]]_ expression led to
+- Loss of _[[VEGFA|VEGF]]_ expression led to
   - endothelial cell apoptosis [^Soltani2016]
   - disapperance of lung tissue [^Soltani2016]
+- Crosstalk between epithelial cells using VEGF and pulmonary cepillaries are neccessary for gas exchange surface formation [^yamamoto2007]
+
+- _[[VEGF]]_ induces airway epithelial cell proliferation in human fetal lung in vitro [^brown2001]
+- Vegfr-2 is found in cells of endothelial lineage [^schachtner2000][^ng2001][^millauer1993][^greenberg2002]
+
+  - quote "The mechanism of wound healing is associated with expressions of TGF-β1, fibronectin, vascular endothelial growth factor (VEGF) and collagen-I" **Bee Products in Dermatology and Skin Care** Anna Kurek-Górecka, Michał Górecki, et al, and Jerzy Stojko (2020)
+  - proinflammatory?
 
 ### Animal models:
 - Blockage (using sunitinib) of the _[[VEGFA|VEGF]]_ pathway leads to [^Wang2017]
@@ -53,7 +65,11 @@ publish: true
     - lower expression of _[[VEGFA|VEGF]]_, _[[VEGFR1]]_, _[[VEGFR2]]_
     - Overall: more severe small airway remodelling in a rat model
 
-### References
+## Also read
+- [10.1016/j.rmed.2019.08.003](https://doi.org/10.1016/j.rmed.2019.08.003) (Review on respiratory diseases and VEGF
+- ...
+
+## References
 [^Boeck2015]: Boeck, L., Mandal, J., Costa, L., Roth, M., Tamm, M., & Stolz, D. (2015). Longitudinal measurement of serum vascular endothelial growth factor in patients with chronic obstructive pulmonary disease. Respiration, 90, 97–104. https://doi.org/10.1159/000430993
 [^Kawamoto2018]: Kawamoto, T., Kanazawa, H., Tochino, Y., & Kawaguchi, T. (2018). Evaluation of the severity of small airways obstruction and alveolar destruction in chronic obstructive pulmonary disease. Respiratory Medicine, 141, 159– 164. https://doi.org/10.1016/j.rmed.2018.07.002
 [^LaddhaKulkarni2019]: Laddha, A. P., & Kulkarni, Y. A. (2019). VEGF and FGF-2: Promising targets for the treatment of respiratory disorders. Respiratory Medicine, 156, 33– 46. https://doi.org/10.1016/j.rmed.2019.08.003
@@ -67,3 +83,10 @@ publish: true
 [^Wang2017]: Wang, L., Xu, Z., Chen, B., He, W., Hu, J., Zhang, L., Liu, X., & Chen, F. (2017). The role of vascular endothelial growth factor in small-airway remodelling in a rat model of chronic obstructive pulmonary disease. Scientific Reports, 7, 41202. https://doi.org/10.1038/srep41202
 [^WestergrenThorsson2018]: Westergren-Thorsson, G., Bagher, M., Andersson-Sjöland, A., Thiman, L., Löfdahl, C. G., Hallgren, O., Bjermer, L., & Larsson-Callerfelt, A. K. (2018). VEGF synthesis is induced by prostacyclin and TGF-β in distal lung fibroblasts from COPD patients and control subjects: Implications for pulmonary vascular remodelling. Respirology, 23, 68–75. https://doi.org/ 10.1111/resp.13142
 [^Yancopoulos2000]: Yancopoulos, G. D., Davis, S., Gale, N. W., Rudge, J. S., Wiegand, S. J., & Holash, J. (2000). Vascular-specific growth factors and blood vessel formation. Nature, 407, 242–248. https://doi.org/10.1038/35025215
+[^Yasunori2000]: Yasunori Kasahara, Rubin M. Tuder, Carlyne D. Cool, David A. Lynch, Sonia C. Flores, Norbert F. Voelkel (2000) https://doi.org/10.1164/ajrccm.163.3.2002117
+[^yamamoto2007]: Hiroaki Yamamoto, Eun Jun Yun, Hans-Peter Gerber, Napoleone Ferrara, Jeffrey A.Whitsett, Thiennu H.Vua **Epithelial–vascular cross talk mediated by VEGF-A and HGF signaling directs primary septae formation during distal lung morphogenesis** 2007 https://doi.org/10.1016/j.ydbio.2007.04.042
+[^greenberg2002]: M. Greenberg, F.Y. Thompson, S.K. Brooks, J.M. Shannon, K. McCormick-Shannon, J.E. Cameron, B.P. Mallory, A.L. Akeson **Mesenchymal expression of vascular endothelial growth factors D and A defines vascular patterning in developing lung** Dev. Dyn., 224 (2002), pp. 144-153 https://doi.org/10.1002/dvdy.10095
+[^millauer1993]: B. Millauer, S. Wizigmann-Voos, H. Schnurch, R. Martinez, N.P. Moller, W. Risau, A. Ullrich **High affinity VEGF binding and developmental expression suggest Flk-1 as a major regulator of vasculogenesis and angiogenesis** Cell, 72 (1993), pp. 835-846 https://doi.org/10.1016/0092-8674(93)90573-9
+[^ng2001]: Y.S. Ng, R. Rohan, M.E. Sunday, D.E. Demello, P.A. D’Amore **Differential expression of VEGF isoforms in mouse during development and in the adult** Dev. Dyn., 220 (2001), pp. 112-121 [doi](https://doi.org/10.1002/1097-0177(2000)9999:9999<::AID-DVDY1093>3.0.CO;2-D)
+[^schachtner2000]: S.K. Schachtner, Y. Wang, H. Scott Baldwin **Qualitative and quantitative analysis of embryonic pulmonary vessel formation** Am. J. Respir. Cell Mol. Biol., 22 (2000), pp. 157-165 https://doi-org.proxy-ub.rug.nl/10.1165/ajrcmb.22.2.3766
+[^brown2001]: Karen R. S. Brown, Katherine M. England, Kelli L. Goss, Jeanne M. Snyder, and Michael J. Acarregui **VEGF induces airway epithelial cell proliferation in human fetal lung in vitro** (2001) https://doi.org/10.1152/ajplung.2001.281.4.L1001
