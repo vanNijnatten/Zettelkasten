@@ -28,3 +28,5 @@ COL6A1 - collagen gene
 MEX3D -- BCL2 (other gene)
 BCL2 - apoptosis/autofagie
 [[VEGFA]]
+[[FN1]]
+SPARC - Matricellular glycoprotein, SPARC is a secreted molecule, that mediates the interaction between cells  and extracellular matrix. SPARC functions as a regulator of matrix organization and modulates cell behavior. Fibronectin mediates activation of stromal fibroblasts by SPARC in endometrial cancer cells. (10.1186/s12885-021-07875-9)

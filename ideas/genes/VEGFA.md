@@ -40,6 +40,7 @@ publish: true
   - tissue rich in blood vessels [^Lu2016]
   - inflammatory cells [^Lu2016] ???
   - lymphatic tissue???
+  - Secretory cells, Basal cells, Monocytes, Dendritic cells [^hca_epithelium]
 - Nessessary for building lung tissue architecture [^LaddhaKulkarni2019]
 - Involved in bronchial microvascular changes [^LaddhaKulkarni2019]
 - Involved in the inflammatory response in lung [^LaddhaKulkarni2019]
@@ -90,3 +91,4 @@ publish: true
 [^ng2001]: Y.S. Ng, R. Rohan, M.E. Sunday, D.E. Demello, P.A. D’Amore **Differential expression of VEGF isoforms in mouse during development and in the adult** Dev. Dyn., 220 (2001), pp. 112-121 [doi](https://doi.org/10.1002/1097-0177(2000)9999:9999<::AID-DVDY1093>3.0.CO;2-D)
 [^schachtner2000]: S.K. Schachtner, Y. Wang, H. Scott Baldwin **Qualitative and quantitative analysis of embryonic pulmonary vessel formation** Am. J. Respir. Cell Mol. Biol., 22 (2000), pp. 157-165 https://doi-org.proxy-ub.rug.nl/10.1165/ajrcmb.22.2.3766
 [^brown2001]: Karen R. S. Brown, Katherine M. England, Kelli L. Goss, Jeanne M. Snyder, and Michael J. Acarregui **VEGF induces airway epithelial cell proliferation in human fetal lung in vitro** (2001) https://doi.org/10.1152/ajplung.2001.281.4.L1001
+[^hca_epithelium]: https://www.genomique.eu/cellbrowser/HCA/?ds=HCA_airway_epithelium&layout=0&gene=VEGFA

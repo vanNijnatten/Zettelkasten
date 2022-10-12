@@ -12,8 +12,10 @@ publish: true
 ## Discussion
 [[FN1]]
 mainly secreted by mesenchymal cells?
+- epithelial like cells (Ishikawa cell line)
+- 
 In what conditions?
-higher expression of FN1 (in which cells?) protectrs against apoptosis (in mice?)
+higher expression of FN1 (in which cells?) protectrs against apoptosis (in rat?)
 
 
 ## Comments
