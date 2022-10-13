@@ -23,11 +23,11 @@ publish: true
 - Is a ligand for both _[[VEGFR1]]_ and _[[VEGFR2]]_.
 
 ### Homo Sapiens:
-- Endothelial cell survival [^Yancopoulos2000]
-- Maintains angiogenesis [^Yancopoulos2000]
+- [[Endothelial cell]] survival [^Yancopoulos2000]
+- Maintains [[angiogenesis]] [^Yancopoulos2000]
 - Involved in small airway remodelling [^Wang2017]
 - Reflects alveolar destruction in [[COPD]] [^Kawamoto2018]
-  - VEGF (gene/protein?) expression levels in induced sputum from the lower respiratory tract were lower in the non-[[COPD]] smoking subjects compared to non-smokers, and even lower in smokers with  [[COPD]]. [^Kawamoto2018]
+  - VEGF (gene/protein?) expression levels in induced sputum from the lower respiratory tract were lower in the non-[[COPD]] smoking subjects compared to non-smokers, and even lower in smokers with [[COPD]]. [^Kawamoto2018]
   - VEGF (gene/protein?) expression levels decreased with increased severity of [[computed-tomographic|LAA grade]] [^Kawamoto2018]
   - VEGF (gene/protein?) expression levels were inversly (negetively) correlated with [[spirometry|Δ N<sub>2</sub>]] in [[COPD]] patients with severe emphysema [^Kawamoto2018]
 - Signalling pathways have been assiciated with
@@ -46,15 +46,15 @@ publish: true
 - Involved in the inflammatory response in lung [^LaddhaKulkarni2019]
 - Increased expression in [[COPD]] exacerbation, not after exacerbation [^Valipour2008]
 - Maintenance of
-  - endothelial cells [^WestergrenThorsson2018]
-  - epithelial cells viability [^WestergrenThorsson2018]
+  - [[endothelial cells]] [^WestergrenThorsson2018]
+  - [[epithelial cells ]]viability [^WestergrenThorsson2018]
 - Loss of _[[VEGFA|VEGF]]_ expression led to
-  - endothelial cell apoptosis [^Soltani2016]
+  - [[endothelial cell]] [[apoptosis]] [^Soltani2016]
   - disapperance of lung tissue [^Soltani2016]
-- Crosstalk between epithelial cells using VEGF and pulmonary cepillaries are neccessary for gas exchange surface formation [^yamamoto2007]
+- Crosstalk between epithelial cells using _VEGF_ and pulmonary cepillaries are neccessary for gas exchange surface formation [^yamamoto2007]
 
 - _[[VEGF]]_ induces airway epithelial cell proliferation in human fetal lung in vitro [^brown2001]
-- Vegfr-2 is found in cells of endothelial lineage [^schachtner2000][^ng2001][^millauer1993][^greenberg2002]
+- Vegfr-2 is found in [[endothelial cells]] [^schachtner2000][^ng2001][^millauer1993][^greenberg2002]
 
   - quote "The mechanism of wound healing is associated with expressions of TGF-β1, fibronectin, vascular endothelial growth factor (VEGF) and collagen-I" **Bee Products in Dermatology and Skin Care** Anna Kurek-Górecka, Michał Górecki, et al, and Jerzy Stojko (2020)
   - proinflammatory?

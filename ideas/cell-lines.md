@@ -32,6 +32,9 @@ fibroblasts, responsive to TGF-b
 human endometrial adenocarcinoma explants
 DMEM + 10% FBS + 100U/ml penicilin + 100ug/mL streptomycin
 
+## K562
+???
+
 # Cell Culture
 **DMEM:** Dulbecco's Modified Eagle's Medium (DMEM)
 
