@@ -68,7 +68,7 @@ publish: true
 
 ## Also read
 - [10.1016/j.rmed.2019.08.003](https://doi.org/10.1016/j.rmed.2019.08.003) (Review on respiratory diseases and VEGF
-- ...
+- https://www.ncbi.nlm.nih.gov/books/NBK53238/?report=classic (Book on Angiogenesis)
 
 ## References
 [^Boeck2015]: Boeck, L., Mandal, J., Costa, L., Roth, M., Tamm, M., & Stolz, D. (2015). Longitudinal measurement of serum vascular endothelial growth factor in patients with chronic obstructive pulmonary disease. Respiration, 90, 97–104. https://doi.org/10.1159/000430993

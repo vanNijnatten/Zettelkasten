@@ -32,23 +32,23 @@ publish: true
   - At least six integrins, as described by Hynes 1992; Vogel et al. 1990; Busk et al. 1992; Elices et al. 1991. quoted from [^ref15]
 - Absence of [[FN1]] or absence of the function of [[FN1]] results in embryonic death. (quoted from [^ref15])
   - Cells are able to migrate using [[FN1]] despite absence of (function of) α5β1 (quoted from [^ref15])
-- FN and its receptor are important in lung development. Their coexpression coincides with the onset of [[lung|branching morphogenesis]] and is barely detectable in adult lung (what tissue type?). [^ref1]
-- FN expression increases during injury and wound healing [^ref1]
-- FN is regulated by [[cAMP]], [[TGF-b]], [[epidermal growth factor]], [[PDGF]], [[glucocorticosteroids]], [[vitamin D3]]) [^ref1]
-- FN is a [[mesenchymal cell]] marker [^ref4]
+- [[FN1]] and its receptor are important in lung development. Their coexpression coincides with the onset of [[lung|branching morphogenesis]] and is barely detectable in adult lung (what tissue type?). [^ref1]
+- [[FN]] expression increases during injury and wound healing [^ref1]
+- [[FN]] is regulated by [[cAMP]], [[TGF-b]], [[epidermal growth factor]], [[PDGF]], [[glucocorticosteroids]], [[vitamin D3]]) [^ref1]
+- [[FN]] is a [[mesenchymal cell]] marker [^ref4]
 - Expressed in [[Macrophages]], [[Fibroblasts]], [[Monocytes]], [[Smooth Muscle]] and [[Endothelial cells]] [^ref6_hca_epithelium]
 - FN has different functional domains that directly bind it to a variety of molecules such as [[fibrin]], [[collagen]], and [[heparin]] [^ref10]
 - 
 
 ### Homo Sapiens:
-- [[SPARC]] activates stromal fibroblasts only in the presence of FN1  [^ref2] (Ishakawa [[cell-lines|cell line]])
-- [[SPARC]] enhances [[FN1]] expression in [^ref7]
+- [[SPARC]] activates stromal fibroblasts only in the presence of _[[FN1]]  [^ref2] (Ishakawa [[cell-lines|cell line]])
+- [[SPARC]] enhances _[[FN1]]_ expression in [^ref7]
 - FN is regulated by TGF-b [^ref3] and others (see above)
-- salinomycin reduces the level of [[FN1]] [^ref8]
+- salinomycin reduces the level of _[[FN1]]_ [^ref8]
 - _[[FN1]]_ has been shown to be decreased following Paraquat (PQ)‐induced senescence in control fibroblasts grown in culture [^ref9]
 - High expression of [[FN1]] suppresses apoptosis through the [[NF-κB pathway]] and is associated with migration in nasopharyngeal carcinoma [^ref13]
 - Heparin-II domain of [[fibronectin]] is a vascular endothelial growth factor ([[VEGF]])-binding domain [^ref14]
-  - FN1 is neccessary for vascular growth, but is not dependent on integrin a5b1 - (Drake et al., 1992). However, a5b1-null phenotype results in destended and leaky blood vessels. Therefore a5b1 is neccessary for proper growth. Furthermore, FN1 and a5b1 are involved in erythropoiesis, though that process continues without a5b1. (to what extend?)[^ref15]
+  - [[FN1]] is neccessary for vascular growth, but is not dependent on integrin a5b1 - (Drake et al., 1992). However, a5b1-null phenotype results in destended and leaky blood vessels. Therefore a5b1 is neccessary for proper growth. Furthermore, FN1 and a5b1 are involved in erythropoiesis, though that process continues without a5b1. (to what extend?)[^ref15]
 - 
 
 ### Animal models:
@@ -71,6 +71,6 @@ publish: true
 [^ref11]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666059/
 [^ref12]: https://doi.org/10.1016/j.humimm.2006.05.004
 [^ref13]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666059/
-[^ref14]: https://doi.org/10.1161/01.res.0000246849.17887.66
+[^ref14]: https://doi.org/10.1161/01.res.0000246849.17887.66 ⭐️
 [^ref15]: https://doi.org/10.1242/dev.119.4.1093
 [^ref16]: 
