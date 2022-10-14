@@ -16,6 +16,10 @@ publish: true
   - COPD
   - [[inflammation]]
   - [[smoking]]
+  - 
+  - Neutrophilia in copd +faster movement?
+  - muscle distrophy?
+  - goblet cell hyperplasia?
 
-Spier distrofie?
-goblet cell hyperplasia?
+- Barnes et al 2015 (overvoew of copd)
+- 
