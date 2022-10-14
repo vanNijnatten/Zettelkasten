@@ -30,7 +30,7 @@ For **[[mac|Mac]]** and **[[linux|Linux]]**, simple commands will do the trick: 
 Git can now be accessed using the command line interface (CLI). For **Windows** that is usually `cmd`, [[powershell|Powershell]] or Git Bash, while for **Mac** and **Linux** it is the terminal or iTerm2.
 
 ## Basic configuration
-After the installation of Git, some configuration needs to be done. For all Operating Systems both the user name and the email address should be set. Execute using the CLI the following commands: `git config --global user.name "Jos van Nijnatten"` and `git config --global user.email "9002122+vanNijnatten@users.noreply.github.com"`. Of course replace "Jos van Nijnatten" and "9002122+vanNijnatten@users.noreply.github.com" with your name and email address respectively. If you use GitHub as a remote branch, the type of email shown above can be obtaind from the [email page](https://github.com/settings/emails).
+After the installation of Git, some configuration needs to be done. For all Operating Systems both the user name and the email address should be set. Execute using the CLI the following commands: `git config --global user.name "Jos van Nijnatten"` and `git config --global user.email "9002122+vanNijnatten@users.noreply.github.com"`. Of course replace "Jos van Nijnatten" and "9002122+vanNijnatten@users.noreply.github.com" with your name and email address respectively. If you use GitHub as a remote branch, the type of email shown above can be obtaind from the [email page](https://github.com/settings/emails). Additionally, it is possible to cach your long credentials using `git config --global credential.helper cache`, though [[Mac]] does it automatically.
 
 Additionally, there is a difference in Windows and Unix-style line ending. Because of this, `safeclrf` should be set to `true` using `git config --global core.safeclrf true`. One more settings is important when developing cross-platform. For **Windows** you will want to checkout Windows-style, and commit Unix-style. Execute `git config --global core.autoclrf true`. For **Mac** and **Linux** you will want to checkout Unix-style, and commit Unix-style. Execute `git config --global core.autoclrf input`.
 
@@ -78,16 +78,25 @@ git init
 git clone git@website.com:username/repo.git
 git add .
 git rm file.txt
+git mv filename new-path/new-filename
 git commit -m "commit message"
 git commit --amend -m "rewrite commit message" <- without any staged file(s)
 git commit --amend --no-edit <- with staged file(s)
+git revert HEAD -> will revert the last commit
 git clean -n
 git clean -f
 git clean -d
 git push
-git pull
+git push origin (branch-name)
+git push -u origin (branch-name)
+git push origin --delete (origin) (branch-name)
+git pull --verbose
 git status
 git log
+git show ((short)-commit-id)
+git diff
+git diff --staged
+git diff (filename)
 git blame (file)
 git switch (branch) -> switches to branch
 git checkout (commit) -> from branch sets branch to commit
@@ -97,10 +106,16 @@ git restore . -> discard all local changes
 git restore --staged (file_name)
 git restore --source (commit) (file_name) -> restores file from commit
 git restore (file_name) -p -> walk through changes
+git reset HEAD -> all files will be considered unstaged
+git reset HEAD filename -> file will be considered an unstaged file
 git reset (--hard -> from a branch to a commit will move the branch)
+git branch -a -> list all branches
 git branch (new-branch-name) (origin-branch-name)
-git branch -D (branch-name) -> will delete the label
-git merge (branch-B) -> from branch-A merge branch-B into branch-A
+git branch -D (branch-name) -> will delete the label (without warning)
+git merge (branch-B) --no-ff -> from branch-A, merge branch-B into branch-A
+git merge --abort
+git remote -v -> list remote URLs
+git remote show origin
 git remote add origin (url) 
 git remote set-url origin (url)
 git stash save -u "message" -> include-untracked
@@ -122,14 +137,13 @@ git reflog
 ```
 
 ## Useful commands
-
-
 ```Bash
 # Cheatsheet
 # https://dev.to/rubiin/one-list-to-rule-them-all-1kh5#computer-science
 # https://github.com/tiimgreen/github-cheat-sheet#readme
 # https://gitimmersion.com/lab_01.html
 # https://ohshitgit.com
+# https://levelup.gitconnected.com/top-30-git-commands-you-should-know-to-master-git-cli-f04e041779bc
 
 # Aliases
 lg = lg1
