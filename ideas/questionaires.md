@@ -8,7 +8,7 @@ publish: true
 ---
 # Questionaires
   - [[SGRQ]]
-  - [[CCQ]]
-  - [[CAT]]
-  - [[AQLA]]
-  - [[ACQ]]
+  - [[CCQ]] (COPD)
+  - [[CAT]] (COPD)
+  - [[AQLQ]] (Asthma)
+  - [[ACQ]] (Asthma)
