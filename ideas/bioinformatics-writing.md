@@ -19,7 +19,9 @@ These are some _Bioinformatical_ ideas to write about:
 - gProfiler
 - Bayesian Networks
 - Cellular Deconvolution
-- RNA-Seq
 - Methylation
-- Genotyping
-- Single Cell-Seq
+- RNA-Seq
+- Single-Cell-Seq
+- Small-RNA-Seq
+  - Genotyping
+- Chromatin-Seq: ATAC-sequencing (uses TN5, a protein)
