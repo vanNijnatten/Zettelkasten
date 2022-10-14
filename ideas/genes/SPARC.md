@@ -21,7 +21,8 @@ publish: true
 - 
 
 ### No reference
-- 
+- Acts on PDGF (also angiogenesis??)
+- Angiogenesis is not its main function
 
 ### Homo Sapiens:
 - [[SPARC]] activates stromal fibroblasts only in the presence of _[[FN1]]  [^ref1] (Ishakawa [[cell-lines|cell line]])
