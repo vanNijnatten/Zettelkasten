@@ -5,5 +5,9 @@
   "dataview",
   "table-editor-obsidian",
   "note-refactor-obsidian",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-citation-plugin",
+  "obsidian-footnote-indicator",
+  "obsidian-footnotes",
+  "obsidian-tidy-footnotes"
 ]

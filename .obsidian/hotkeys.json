@@ -1,20 +1,11 @@
 {
-  "templater-obsidian:insert-templater": [
+  "obsidian-tidy-footnotes:tidy-footnotes": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "E"
-    }
-  ],
-  "templater-obsidian:create-new-note-from-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "`"
+      "key": "I"
     }
   ]
 }
