@@ -19,8 +19,8 @@ publish: true
 ## Research
 ## Ideas
 - FN1 interacts with Integrin α5β1 (dimer complex)
-- This comples interacts with CEACAM(1/6/8) https://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Freactome%2FR-HSA-1566977
-- Liogation of CD66b (CEACAM8) enhances adhesion to fibronectin [^ref12] in neutrophils. Neutros release of IL-8 in stimulation of CEACAM8. Nuetrophils are the first cells to migrate to infected tissue and use phagocytosis and degranulation.
+- This complex interacts with CEACAM(1/6/8) https://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Freactome%2FR-HSA-1566977
+- Ligation of CD66b (CEACAM8) enhances adhesion to fibronectin [^ref12] in neutrophils. Neutros release of IL-8 in stimulation of CEACAM8. Nuetrophils are the first cells to migrate to infected tissue and use phagocytosis and degranulation.
 
 ### No reference
 - Two types of FN
@@ -43,7 +43,7 @@ publish: true
 ### Homo Sapiens:
 - [[SPARC]] activates stromal fibroblasts only in the presence of _[[FN1]]  [^ref2] (Ishakawa [[cell-lines|cell line]])
 - [[SPARC]] enhances _[[FN1]]_ expression in [^ref7]
-- FN is regulated by TGF-b [^ref3] and others (see above)
+- FN is regulated by [[TGF-b]] [^ref3] and others (see above)
 - salinomycin reduces the level of _[[FN1]]_ [^ref8]
 - _[[FN1]]_ has been shown to be decreased following Paraquat (PQ)‐induced senescence in control fibroblasts grown in culture [^ref9]
 - High expression of [[FN1]] suppresses apoptosis through the [[NF-κB pathway]] and is associated with migration in nasopharyngeal carcinoma [^ref13]
