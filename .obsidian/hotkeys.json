@@ -1,11 +1,66 @@
 {
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
   "obsidian-tidy-footnotes:tidy-footnotes": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-kanban:create-new-kanban-board": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-kanban:toggle-kanban-view": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "I"
+      "key": "E"
     }
   ]
 }
