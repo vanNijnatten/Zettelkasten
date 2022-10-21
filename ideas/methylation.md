@@ -6,6 +6,12 @@ cssclass: idea
 publish: true
 ---
 # Methylation
+This note should mention
+- Array: [[@bibikovaGenomewideDNAMethylation2009|bibikova2009]], [[@pidsleyDatadrivenApproachPreprocessing2013|pidsley2013]]
+- Processing: [[@aryeeMinfiFlexibleComprehensive2014|aryee2014]]
+- DMRs packages: [[@lentDetectingDifferentiallyMethylated2021|lent2021]], [[@lentComparisonNovelExisting2018|lent2018]], [[@sudermanDmrffIdentifyingDifferentially2018|suderman2018]]
+
+
 To date, a number of methods have been developed to detect/quantify DNA methylation including: high-performance capillary electrophoresis (4) and methylation-sensitive arbitrarily primed PCR (5). However, the most common technique used today remains the bisulfite conversion method (6). This technique involves treating methylated DNA with bisulfite, which converts unmethylated cytosines into uracil. Methylated cytosines remain unchanged during the treatment. Once converted, the methylation profile of the DNA can be determined by PCR amplification followed by DNA sequencing (see next page).
 (spontaneous) deamination = cytosine => uracil. uracil-DNA glycosylase  is there to repair the DNA
 5-methylcytosine => thymine. uracil-DNA glycosylase cannot repair the DNA. Mismatch repair (really inefficient) via thymine-DNA glycosylase (TDG). Because of this inefficient mechanism, methylation is the most stable epigenetic marker.
@@ -17,8 +23,8 @@ bisulfite conversion can fragment DNA ?
 
 ## Methylation methods
 A number of methods have been developed to detect and quantify DNA methylation:
- - High-performance capillary electrophoresis [ref](#^ref1)
- - Methylation-sensitive arbitrarily primed PCR [ref][1]
+ - High-performance capillary electrophoresis
+ - Methylation-sensitive arbitrarily primed PCR
  - Bisulfite conversion method (most common used technique)
 
 DNA Methylation protocols almost always include a bisulfite processing step.
@@ -56,8 +62,3 @@ upstream enhancer, tata box (transcription start), promotor sequences, introns, 
 x chromosome silencing
 
 ## References
- - test ref1 ^ref1
-
- - test
-
- [1]: http://www.google.com
