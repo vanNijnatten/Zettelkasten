@@ -1,16 +1,20 @@
 ---
 tags: ✍️ ⭐️ 🔖 
 aliases: 
-  - dna methylation
+  - DNA methylation
+  - DMR
+  - CpG site
+  - CpG
 cssclass: idea
 publish: true
 ---
-# Methylation
+# DNA methylation
 This note should mention
-- Array: [[@bibikovaGenomewideDNAMethylation2009|bibikova2009]], [[@pidsleyDatadrivenApproachPreprocessing2013|pidsley2013]]
-- Processing: [[@aryeeMinfiFlexibleComprehensive2014|aryee2014]]
-- DMRs packages: [[@lentDetectingDifferentiallyMethylated2021|lent2021]], [[@lentComparisonNovelExisting2018|lent2018]], [[@sudermanDmrffIdentifyingDifferentially2018|suderman2018]]
-
+- Array: [[@bibikovaGenomewideDNAMethylation2009|bibikova2009]], [[@bibikovaHighDensityDNA2011|bibikova2011]]
+- DNA methylation sequencing: [[@morrisonEvaluationWholegenomeDNA2021|morrison2021]], [[@rauluseviciuteDNAMethylationData2019|rauluseviciute2019]]
+- Processing: [[@aryeeMinfiFlexibleComprehensive2014|aryee2014]] (minfi), [[@pidsleyDatadrivenApproachPreprocessing2013|pidsley2013]] (wateRmelon)
+- DMRs packages review: [[@lentDetectingDifferentiallyMethylated2021|lent2021]], [[@sudermanDmrffIdentifyingDifferentially2018|suderman2018]]
+- DMR packages: [[@lentComparisonNovelExisting2018|lent2018]] (dmrff), [[@pedersenCombpSoftwareCombining2012|pedersen2012]](comb-p), [[@petersNovoIdentificationDifferentially2015|peters2015]](dmrcate), [[@koldeSeqlmMDLBased2016|kolde2016]](seqlm), [[@jaffeBumpHuntingIdentify2012|jaffe2012]](bumphunter), (globalP), (Aclust), (GetisDMR), (DMRFinder), (Probe Lasso), (DMRMark), (SKAT), (aSPUw)
 
 To date, a number of methods have been developed to detect/quantify DNA methylation including: high-performance capillary electrophoresis (4) and methylation-sensitive arbitrarily primed PCR (5). However, the most common technique used today remains the bisulfite conversion method (6). This technique involves treating methylated DNA with bisulfite, which converts unmethylated cytosines into uracil. Methylated cytosines remain unchanged during the treatment. Once converted, the methylation profile of the DNA can be determined by PCR amplification followed by DNA sequencing (see next page).
 (spontaneous) deamination = cytosine => uracil. uracil-DNA glycosylase  is there to repair the DNA

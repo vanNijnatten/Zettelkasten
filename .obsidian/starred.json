@@ -8,12 +8,7 @@
     {
       "type": "file",
       "title": "methylation",
-      "path": "ideas/methylation.md"
-    },
-    {
-      "type": "file",
-      "title": "bibikova-2009",
-      "path": "papers/bibikova-2009.md"
+      "path": "ideas/dna-methylation.md"
     },
     {
       "type": "file",

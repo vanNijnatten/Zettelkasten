@@ -22,11 +22,28 @@ cohorts: none
 **Zotero:** [Click here](zotero://select/items/@sudermanDmrffIdentifyingDifferentially2018)
 
 ## Abstract
-Over here I should write shortly what this paper is about, their hypothesis and their main findings
-> A differentially methylated region (DMR) is a genomic region in which DNA methylation is consistently positively or negatively associated with a phenotype or exposure. We demonstrate that existing algorithms for identifying DMRs either fail to consistently control false positive rates (comb-p and DMRcate), suffer from low power (bumphunter) or lack modeling flexibility (seqlm). We introduce a new method, dmrff, that overcomes these shortcomings and can additionally be used to meta-analyze multiple datasets. When applied to investigate associations of age in multiple datasets, dmrff identifies novel DMRs near genes previously linked to age. An R implementation is available on Github (http://github.com/perishky/dmrff).
+See also: [[dna-methylation|DNA methylation]] .
+
+DMR: genomic region in which DNA methylation is consistently positive or negatively associate with a phenotype or exposure
+
+Nessecary for proper DMR identification/trying to overcome
+- control false positive rates
+- low power
+- modelling flexibility
 
 ## Methods
-...
+### DMRff
+DMRff does not assume independence between CpG sites, as this is rarely the case. Instead it uses "an extension of inverse-variance weighted meta-analysis"[^1].
+
+- EWAS (limma) effect with the same sign
+- EWAS nominal p-value <0.05
+- B/S statistic is calculated for each region (distance) and sub-region
+  - Most extreme statistic that do not overlap with previously identified candidated
+- P-values are Bonferroni-adjusted
+
+### Validation
+- Limma for EWAS
+- Max distance = 500bp
 
 ## Results
 ...
@@ -38,4 +55,4 @@ Over here I should write shortly what this paper is about, their hypothesis and 
 ...
 
 ## References
-...
+[^1]: [[@burgessCombiningInformationMultiple2016|burgess2016]]

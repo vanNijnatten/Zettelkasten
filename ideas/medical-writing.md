@@ -13,7 +13,7 @@ These are some _Medical_ ideas to write about:
 - [[genetics]]
   - [[gene]]
   - [[snp]]
-- [[epigenetics]]
-  - [[methylation]]
+- [[epigenome]]
+  - [[dna-methylation]]
   - [[microRNA]]
 - 
