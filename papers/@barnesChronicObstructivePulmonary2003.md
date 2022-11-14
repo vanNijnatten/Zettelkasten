@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🚀
 aliases:
   - barnes2003
   - barnesChronicObstructivePulmonary2003
@@ -9,7 +9,6 @@ authors:
   - P.J. Barnes
   - S.D. Shapiro
   - R.A. Pauwels
-article-type: research
 journal: European Respiratory Journal
 year: 2003
 cohorts: none

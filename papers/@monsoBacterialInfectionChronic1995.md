@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🔬
 aliases:
   - monso1995
   - monsoBacterialInfectionChronic1995
@@ -13,7 +13,6 @@ authors:
   - J Fiz
   - J Morera
   - V Ausina
-article-type: research
 journal: American Journal of Respiratory and Critical Care Medicine
 year: 1995
 cohorts: none

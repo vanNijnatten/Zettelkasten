@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - bibikova2011
   - bibikovaHighDensityDNA2011
@@ -18,7 +18,6 @@ authors:
   - Kevin L. Gunderson
   - Jian-Bing Fan
   - Richard Shen
-article-type: research
 journal: Genomics
 year: 2011
 cohorts: none

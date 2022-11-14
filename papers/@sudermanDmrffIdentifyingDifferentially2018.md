@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - suderman2018
   - sudermanDmrffIdentifyingDifferentially2018
@@ -12,7 +12,6 @@ authors:
   - Ryan Arathimos
   - Andrew Simpkin
   - Kate Tilling
-article-type: research
 journal: 
 year: 2018
 cohorts: none

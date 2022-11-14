@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - pedersen2012
   - pedersenCombpSoftwareCombining2012
@@ -10,7 +10,6 @@ authors:
   - D. A. Schwartz
   - I. V. Yang
   - K. J. Kechris
-article-type: research
 journal: Bioinformatics
 year: 2012
 cohorts: none

@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🔬 📱
 aliases:
   - lent2021
   - lentDetectingDifferentiallyMethylated2021
@@ -14,7 +14,6 @@ authors:
   - Ching-Ti Liu
   - Marie-France Hivert
   - Josée Dupuis
-article-type: research
 journal: Epigenomics
 year: 2021
 cohorts: none

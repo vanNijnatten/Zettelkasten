@@ -18,6 +18,7 @@ publish: true
 
 #⚕️ - Cohort
 #📱 - Tool
+#📊 - Statistics
 
 #👓 - To read
 #✍️ - To edit

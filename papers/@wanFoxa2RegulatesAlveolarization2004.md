@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🔬
 aliases:
   - wan2004
   - wanFoxa2RegulatesAlveolarization2004
@@ -15,7 +15,6 @@ authors:
   - Patricia C. Fulkerson
   - Marc E. Rothenberg
   - Jeffrey A. Whitsett
-article-type: research
 journal: Development
 year: 2004
 cohorts: none

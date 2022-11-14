@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🚀
 aliases:
   - rauluseviciute2019
   - rauluseviciuteDNAMethylationData2019
@@ -9,7 +9,6 @@ authors:
   - Ieva Rauluseviciute
   - Finn Drabløs
   - Morten Beck Rye
-article-type: research
 journal: Clinical Epigenetics
 year: 2019
 cohorts: none

@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🚀
 aliases:
   - barnes2015
   - barnesChronicObstructivePulmonary2015
@@ -13,7 +13,6 @@ authors:
   - Jørgen Vestbo
   - Jadwiga A. Wedzicha
   - Emiel F. M. Wouters
-article-type: research
 journal: Nature Reviews Disease Primers
 year: 2015
 cohorts: none

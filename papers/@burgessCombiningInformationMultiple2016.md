@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📊
 aliases:
   - burgess2016
   - burgessCombiningInformationMultiple2016
@@ -9,7 +9,6 @@ authors:
   - Stephen Burgess
   - Frank Dudbridge
   - Simon G. Thompson
-article-type: research
 journal: Statistics in Medicine
 year: 2016
 cohorts: none

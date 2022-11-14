@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - kolde2016
   - koldeSeqlmMDLBased2016
@@ -11,7 +11,6 @@ authors:
   - Kaie Lokk
   - Sven Laur
   - Jaak Vilo
-article-type: research
 journal: Bioinformatics
 year: 2016
 cohorts: none

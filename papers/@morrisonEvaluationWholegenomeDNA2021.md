@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🔬
 aliases:
   - morrison2021
   - morrisonEvaluationWholegenomeDNA2021
@@ -17,7 +17,6 @@ authors:
   - Emily J. Siegwald
   - Marie Adams
   - Hui Shen
-article-type: research
 journal: Epigenetics & Chromatin
 year: 2021
 cohorts: none

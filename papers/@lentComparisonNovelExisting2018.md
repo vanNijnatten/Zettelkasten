@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 🔬 📱
 aliases:
   - lent2018
   - lentComparisonNovelExisting2018
@@ -13,7 +13,6 @@ authors:
   - Chloé Sarnowski
   - Marie-France Hivert
   - Josée Dupuis
-article-type: research
 journal: BMC Genetics
 year: 2018
 cohorts: none

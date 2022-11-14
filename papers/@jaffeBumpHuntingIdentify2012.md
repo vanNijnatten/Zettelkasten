@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - jaffe2012
   - jaffeBumpHuntingIdentify2012
@@ -13,7 +13,6 @@ authors:
   - M Daniele Fallin
   - Andrew P Feinberg
   - Rafael A Irizarry
-article-type: research
 journal: International Journal of Epidemiology
 year: 2012
 cohorts: none

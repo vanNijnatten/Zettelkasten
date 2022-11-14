@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - aryee2014
   - aryeeMinfiFlexibleComprehensive2014
@@ -13,7 +13,6 @@ authors:
   - Andrew P. Feinberg
   - Kasper D. Hansen
   - Rafael A. Irizarry
-article-type: research
 journal: Bioinformatics
 year: 2014
 cohorts: none

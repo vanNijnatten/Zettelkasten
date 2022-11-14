@@ -1,20 +1,23 @@
 ---
-tags: 🏛 🔬 🚀 👓 ✍️
-aliases: [uniue-zotero-identifier]
+tags: 🔬 🚀 📚 ⚕️ 📱 📊
+aliases:
+  - {{citekey}}
+  - {{citekey}}
 cssclass: article
-publish: true
+publish: false
 authors:
-  - A. Author
-article-type: research/review
-journal: some-journal
-year: 1900
+  - {{authorString}}
+journal: {{containerTitle}}
+year: {{year}}
 cohorts: none
 ---
 # {{title}}
-**DOI:** ...
+**DOI:** [{{DOI}}](https://www.doi.org/{{DOI}})
+**Zotero:** [Click here]({{zoteroSelectURI}})
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings
+> {{abstract}}
 
 ## Methods
 ...

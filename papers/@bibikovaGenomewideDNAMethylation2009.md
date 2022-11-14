@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️
+tags: 📱
 aliases:
   - bibikova2009
   - bibikovaGenomewideDNAMethylation2009
@@ -13,7 +13,6 @@ authors:
   - Lixin Zhou
   - Richard Shen
   - Kevin L Gunderson
-article-type: research
 journal: Epigenomics
 year: 2009
 cohorts: none

@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - pidsley2013
   - pidsleyDatadrivenApproachPreprocessing2013
@@ -12,7 +12,6 @@ authors:
   - Katie Lunnon
   - Jonathan Mill
   - Leonard C Schalkwyk
-article-type: research
 journal: BMC Genomics
 year: 2013
 cohorts: none

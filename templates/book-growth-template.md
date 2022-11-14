@@ -1,8 +1,8 @@
 ---
-tags: 🔬 🚀 👓 ✍️
+tags: 📚
 aliases: [uniue-zotero-identifier]
 cssclass: book
-publish: true
+publish: false
 authors:
   - A. Author
 book-type: academic/informative

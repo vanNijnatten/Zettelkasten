@@ -1,5 +1,5 @@
 ---
-tags: 🏛 🔬 ✍️ 🔖 
+tags: 📱
 aliases:
   - peters2015
   - petersNovoIdentificationDifferentially2015
@@ -14,7 +14,6 @@ authors:
   - Reginald V Lord
   - Susan J Clark
   - Peter L Molloy
-article-type: research
 journal: Epigenetics & Chromatin
 year: 2015
 cohorts: none
