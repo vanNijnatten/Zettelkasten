@@ -15,4 +15,5 @@ publish: true
 - www.pathwaycommons.org
 - string db
 - www.genenames.org (hgnc)
+- encode at ucsc
 - 

@@ -1,18 +1,14 @@
 ---
 tags: ✍️
-aliases: 
-  - pre
-  - pr
-  - progesterone response element
-  - progesterone receptor
+aliases:
   - progesterone
+related:
   - NR3C3
-  - PGR
 cssclass: idea
 publish: true
 ---
-# Progesterone
-???
+See also [[NR3C3]], the progesterone receptor (PR).
 
-## Progesterone receptor
-NR3C3 or PGR
+# Progesterone
+- Progesterone receptor (PR)
+- Progesterone response element (PRE)

@@ -1,15 +1,14 @@
 ---
 tags: ✍️
 aliases: 
-  - androgen response element
-  - androgen receptor
   - androgen
+related:
   - NR3C4
 cssclass: idea
 publish: true
 ---
-# Androgen
-???
+See also [[NR3C4]]; the androgen receptor (AR).
 
-## Androgen receptor (AR)
-NR3C4 or AR
+# Androgen
+- Androgen receptor (AR)
+- Androgen response element (ARE)

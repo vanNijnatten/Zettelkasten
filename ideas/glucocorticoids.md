@@ -1,18 +1,15 @@
 ---
 tags: ✍️ ⭐️
 aliases: 
-  - gre
-  - gr
-  - glucocorticoid response element
-  - glucocorticoid receptor
   - glucocorticoid
+related:
   - NR3C1
 cssclass: idea
 publish: true
 ---
-# Glucocorticoids
-inflammation
+See also [[NR3C1]]; the glucocorticoid receptor (GR).
 
-## Glucocorticoid receptor (GR)
-NR3C1 (glucocorticoid receptor gene)
-glucocorticoid response element
+# Glucocorticoids
+Inflammation
+Glucocorticoid receptor (GR)
+Glucocorticoid response element (GRE)

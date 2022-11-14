@@ -38,7 +38,7 @@ publish: true
 - [[FN]] is a [[mesenchymal cell]] marker [^ref4]
 - Expressed in [[Macrophages]], [[Fibroblasts]], [[Monocytes]], [[Smooth Muscle]] and [[Endothelial cells]] [^ref6_hca_epithelium]
 - FN has different functional domains that directly bind it to a variety of molecules such as [[fibrin]], [[collagen]], and [[heparin]] [^ref10]
-- 
+- [[@grutznerPlatypusMeioticChain2004|grutzner2004]]
 
 ### Homo Sapiens:
 - [[SPARC]] activates stromal fibroblasts only in the presence of _[[FN1]]  [^ref2] (Ishakawa [[cell-lines|cell line]])

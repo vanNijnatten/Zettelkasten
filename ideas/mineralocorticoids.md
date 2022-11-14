@@ -1,17 +1,16 @@
 ---
 tags: ✍️
 aliases: 
-  - mre
-  - mr
-  - mineralocorticoid response element
-  - mineralocorticoid receptor
   - mineralocorticoid
+  - NR3C2
+related:
   - NR3C2
 cssclass: idea
 publish: true
 ---
-# Mineralocorticoids
+See also [[NR3C2]], the mineralocorticoid receptor (MR).
 
-## Mineralocorticoid receptor (MR)
-NR3C2 (Mineralocorticoid receptor gene)
-mineralocorticoid response element
+# Mineralocorticoids
+Inflammation
+Mineralocorticoid receptor (MR)
+mineralocorticoid response element (MRE)
