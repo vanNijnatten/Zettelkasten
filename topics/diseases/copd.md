@@ -21,7 +21,8 @@ publish: true
   - muscle distrophy?
   - goblet cell hyperplasia?
 
-- Barnes et al 2015 (overview of copd) 
+**See also**:
+- [[@barnesChronicObstructivePulmonary2015|barnes2015]].
 - 
 
 
