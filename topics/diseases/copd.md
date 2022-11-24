@@ -12,7 +12,7 @@ publish: true
   - [[pulmonary-system|Pulmonary system]]
   - [[copd-diagnosis|COPD diagnosis]]
   - [[copd-pathology|COPD pathology]]
-  - COPD severity
+  - COPD severity -> COPD diagnosis
   - COPD
   - [[inflammation]]
   - [[smoking]]
