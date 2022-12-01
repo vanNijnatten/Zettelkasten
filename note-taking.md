@@ -2,6 +2,7 @@
 tags: 🏛
 aliases:
  - note-taking
+ - note taking
 cssclass: home
 publish: true
 ---
