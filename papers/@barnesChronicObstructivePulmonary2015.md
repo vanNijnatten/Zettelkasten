@@ -24,7 +24,7 @@ cohorts: none
 **Authors:**
   - [[Peter J. Barnes]]
   - Peter G. J. Burney
-  - Edwin K. Silverman
+  - [[Edwin K. Silverman]]
   - Bartolome R. Celli
   - Jørgen Vestbo
   - Jadwiga A. Wedzicha

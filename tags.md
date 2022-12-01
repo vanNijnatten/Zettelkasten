@@ -15,6 +15,7 @@ publish: true
 #🔬 - Basic research
 #🚀 - Literature review
 #💡 - Idea
+#🧍 - Person
 
 #⚕️ - Cohort
 #📱 - Tool

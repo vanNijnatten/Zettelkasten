@@ -7,7 +7,7 @@ aliases:
   - P. Barnes
   - Peter Barnes
 cssclass: idea
-publish: true
+publish: false
 ---
 ## About
 
