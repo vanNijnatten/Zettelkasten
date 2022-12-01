@@ -1,5 +1,6 @@
 ---
 tags: 🚀
+title: "DNA methylation data by sequencing: Experimental approaches and recommendations for tools and pipelines for data analysis"
 aliases:
   - rauluseviciute2019
   - rauluseviciuteDNAMethylationData2019
@@ -16,6 +17,10 @@ cohorts: none
 # DNA methylation data by sequencing: Experimental approaches and recommendations for tools and pipelines for data analysis
 **DOI:** [10.1186/s13148-019-0795-x](https://www.doi.org/10.1186/s13148-019-0795-x)
 **Zotero:** [Click here](zotero://select/items/@rauluseviciuteDNAMethylationData2019)
+**Authors:**
+  - Ieva Rauluseviciute
+  - Finn Drabløs
+  - Morten Beck Rye
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

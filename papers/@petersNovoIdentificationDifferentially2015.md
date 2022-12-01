@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "De novo identification of differentially methylated regions in the human genome"
 aliases:
   - peters2015
   - petersNovoIdentificationDifferentially2015
@@ -21,6 +22,15 @@ cohorts: none
 # De novo identification of differentially methylated regions in the human genome
 **DOI:** [10.1186/1756-8935-8-6](https://www.doi.org/10.1186/1756-8935-8-6)
 **Zotero:** [Click here](zotero://select/items/@petersNovoIdentificationDifferentially2015)
+**Authors:**
+  - Timothy J Peters
+  - Michael J Buckley
+  - Aaron L Statham
+  - Ruth Pidsley
+  - Katherine Samaras
+  - Reginald V Lord
+  - Susan J Clark
+  - Peter L Molloy
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

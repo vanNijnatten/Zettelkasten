@@ -1,5 +1,6 @@
 ---
 tags: 🔬 📱
+title: "Detecting differentially methylated regions with multiple distinct associations"
 aliases:
   - lent2021
   - lentDetectingDifferentiallyMethylated2021
@@ -21,6 +22,15 @@ cohorts: none
 # Detecting differentially methylated regions with multiple distinct associations
 **DOI:** [10.2217/epi-2020-0344](https://www.doi.org/10.2217/epi-2020-0344)
 **Zotero:** [Click here](zotero://select/items/@lentDetectingDifferentiallyMethylated2021)
+**Authors:**
+  - Samantha Lent
+  - Andres Cardenas
+  - Sheryl L Rifas-Shiman
+  - Patrice Perron
+  - Luigi Bouchard
+  - Ching-Ti Liu
+  - Marie-France Hivert
+  - Josée Dupuis
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

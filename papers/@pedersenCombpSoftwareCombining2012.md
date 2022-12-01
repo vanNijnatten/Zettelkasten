@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "Comb-p: Software for combining, analyzing, grouping and correcting spatially correlated P-values"
 aliases:
   - pedersen2012
   - pedersenCombpSoftwareCombining2012
@@ -17,6 +18,11 @@ cohorts: none
 # Comb-p: Software for combining, analyzing, grouping and correcting spatially correlated P-values
 **DOI:** [10.1093/bioinformatics/bts545](https://www.doi.org/10.1093/bioinformatics/bts545)
 **Zotero:** [Click here](zotero://select/items/@pedersenCombpSoftwareCombining2012)
+**Authors:**
+  - B. S. Pedersen
+  - D. A. Schwartz
+  - I. V. Yang
+  - K. J. Kechris
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

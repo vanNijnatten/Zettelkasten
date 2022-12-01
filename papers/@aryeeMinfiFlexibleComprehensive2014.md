@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA methylation microarrays"
 aliases:
   - aryee2014
   - aryeeMinfiFlexibleComprehensive2014
@@ -20,6 +21,14 @@ cohorts: none
 # Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA methylation microarrays
 **DOI:** [10.1093/bioinformatics/btu049](https://www.doi.org/10.1093/bioinformatics/btu049)
 **Zotero:** [Click here](zotero://select/items/@aryeeMinfiFlexibleComprehensive2014)
+**Authors:**
+  - Martin J. Aryee
+  - Andrew E. Jaffe
+  - Hector Corrada-Bravo
+  - Christine Ladd-Acosta
+  - Andrew P. Feinberg
+  - Kasper D. Hansen
+  - Rafael A. Irizarry
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

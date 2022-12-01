@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "Dmrff: Identifying differentially methylated regions efficiently with power and control"
 aliases:
   - suderman2018
   - sudermanDmrffIdentifyingDifferentially2018
@@ -19,6 +20,13 @@ cohorts: none
 # Dmrff: Identifying differentially methylated regions efficiently with power and control
 **DOI:** [10.1101/508556](https://www.doi.org/10.1101/508556)
 **Zotero:** [Click here](zotero://select/items/@sudermanDmrffIdentifyingDifferentially2018)
+**Authors:**
+  - Matthew Suderman
+  - James R Staley
+  - Robert French
+  - Ryan Arathimos
+  - Andrew Simpkin
+  - Kate Tilling
 
 ## Abstract
 See also: [[dna-methylation|DNA methylation]] .

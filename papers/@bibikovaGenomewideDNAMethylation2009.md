@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "Genome-wide DNA methylation profiling using Infinium <sup>®</sup> assay"
 aliases:
   - bibikova2009
   - bibikovaGenomewideDNAMethylation2009
@@ -20,6 +21,14 @@ cohorts: none
 # Genome-wide DNA methylation profiling using Infinium <sup>®</sup> assay
 **DOI:** [10.2217/epi.09.14](https://www.doi.org/10.2217/epi.09.14)
 **Zotero:** [Click here](zotero://select/items/@bibikovaGenomewideDNAMethylation2009)
+**Authors:**
+  - Marina Bibikova
+  - Jennie Le
+  - Bret Barnes
+  - Shadi Saedinia-Melnyk
+  - Lixin Zhou
+  - Richard Shen
+  - Kevin L Gunderson
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

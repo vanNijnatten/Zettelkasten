@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "Seqlm: An MDL based method for identifying differentially methylated regions in high density methylation array data"
 aliases:
   - kolde2016
   - koldeSeqlmMDLBased2016
@@ -18,6 +19,12 @@ cohorts: none
 # Seqlm: An MDL based method for identifying differentially methylated regions in high density methylation array data
 **DOI:** [10.1093/bioinformatics/btw304](https://www.doi.org/10.1093/bioinformatics/btw304)
 **Zotero:** [Click here](zotero://select/items/@koldeSeqlmMDLBased2016)
+**Authors:**
+  - Raivo Kolde
+  - Kaspar Märtens
+  - Kaie Lokk
+  - Sven Laur
+  - Jaak Vilo
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

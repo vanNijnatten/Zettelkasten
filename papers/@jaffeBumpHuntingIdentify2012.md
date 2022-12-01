@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "Bump hunting to identify differentially methylated regions in epigenetic epidemiology studies"
 aliases:
   - jaffe2012
   - jaffeBumpHuntingIdentify2012
@@ -20,6 +21,14 @@ cohorts: none
 # Bump hunting to identify differentially methylated regions in epigenetic epidemiology studies
 **DOI:** [10.1093/ije/dyr238](https://www.doi.org/10.1093/ije/dyr238)
 **Zotero:** [Click here](zotero://select/items/@jaffeBumpHuntingIdentify2012)
+**Authors:**
+  - Andrew E Jaffe
+  - Peter Murakami
+  - Hwajin Lee
+  - Jeffrey T Leek
+  - M Daniele Fallin
+  - Andrew P Feinberg
+  - Rafael A Irizarry
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

@@ -1,5 +1,6 @@
 ---
 tags: 🔬
+title: "Evaluation of whole-genome DNA methylation sequencing library preparation protocols"
 aliases:
   - morrison2021
   - morrisonEvaluationWholegenomeDNA2021
@@ -24,6 +25,18 @@ cohorts: none
 # Evaluation of whole-genome DNA methylation sequencing library preparation protocols
 **DOI:** [10.1186/s13072-021-00401-y](https://www.doi.org/10.1186/s13072-021-00401-y)
 **Zotero:** [Click here](zotero://select/items/@morrisonEvaluationWholegenomeDNA2021)
+**Authors:**
+  - Jacob Morrison
+  - Julie M. Koeman
+  - Benjamin K. Johnson
+  - Kelly K. Foy
+  - Ian Beddows
+  - Wanding Zhou
+  - David W. Chesla
+  - Larissa L. Rossell
+  - Emily J. Siegwald
+  - Marie Adams
+  - Hui Shen
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

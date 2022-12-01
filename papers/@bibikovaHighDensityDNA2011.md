@@ -1,5 +1,6 @@
 ---
 tags: 📱
+title: "High density DNA methylation array with single CpG site resolution"
 aliases:
   - bibikova2011
   - bibikovaHighDensityDNA2011
@@ -25,6 +26,19 @@ cohorts: none
 # High density DNA methylation array with single CpG site resolution
 **DOI:** [10.1016/j.ygeno.2011.07.007](https://www.doi.org/10.1016/j.ygeno.2011.07.007)
 **Zotero:** [Click here](zotero://select/items/@bibikovaHighDensityDNA2011)
+**Authors:**
+  - Marina Bibikova
+  - Bret Barnes
+  - Chan Tsan
+  - Vincent Ho
+  - Brandy Klotzle
+  - Jennie M. Le
+  - David Delano
+  - Lu Zhang
+  - Gary P. Schroth
+  - Kevin L. Gunderson
+  - Jian-Bing Fan
+  - Richard Shen
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

@@ -1,5 +1,6 @@
 ---
 tags: 🔬 📱
+title: "Comparison of novel and existing methods for detecting differentially methylated regions"
 aliases:
   - lent2018
   - lentComparisonNovelExisting2018
@@ -20,6 +21,14 @@ cohorts: none
 # Comparison of novel and existing methods for detecting differentially methylated regions
 **DOI:** [10.1186/s12863-018-0637-4](https://www.doi.org/10.1186/s12863-018-0637-4)
 **Zotero:** [Click here](zotero://select/items/@lentComparisonNovelExisting2018)
+**Authors:**
+  - Samantha Lent
+  - Hanfei Xu
+  - Lan Wang
+  - Zhe Wang
+  - Chloé Sarnowski
+  - Marie-France Hivert
+  - Josée Dupuis
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

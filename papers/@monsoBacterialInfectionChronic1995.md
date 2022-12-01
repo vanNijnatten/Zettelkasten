@@ -1,5 +1,6 @@
 ---
 tags: 🔬
+title: "Bacterial infection in chronic obstructive pulmonary disease. A study of stable and exacerbated outpatients using the protected specimen brush."
 aliases:
   - monso1995
   - monsoBacterialInfectionChronic1995
@@ -20,6 +21,14 @@ cohorts: none
 # Bacterial infection in chronic obstructive pulmonary disease. A study of stable and exacerbated outpatients using the protected specimen brush.
 **DOI:** [10/gjv7j8](https://www.doi.org/10/gjv7j8)
 **Zotero:** [Click here](zotero://select/items/@monsoBacterialInfectionChronic1995)
+**Authors:**
+  - E Monsó
+  - J Ruiz
+  - A Rosell
+  - J Manterola
+  - J Fiz
+  - J Morera
+  - V Ausina
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings

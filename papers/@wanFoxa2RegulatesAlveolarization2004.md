@@ -1,5 +1,6 @@
 ---
 tags: 🔬
+title: "Foxa2 regulates alveolarization and goblet cell hyperplasia"
 aliases:
   - wan2004
   - wanFoxa2RegulatesAlveolarization2004
@@ -22,6 +23,16 @@ cohorts: none
 # Foxa2 regulates alveolarization and goblet cell hyperplasia
 **DOI:** [10.1242/dev.00966](https://www.doi.org/10.1242/dev.00966)
 **Zotero:** [Click here](zotero://select/items/@wanFoxa2RegulatesAlveolarization2004)
+**Authors:**
+  - Huajing Wan
+  - Klaus H. Kaestner
+  - Siew-Lan Ang
+  - Machiko Ikegami
+  - Fred D. Finkelman
+  - Mildred T. Stahlman
+  - Patricia C. Fulkerson
+  - Marc E. Rothenberg
+  - Jeffrey A. Whitsett
 
 ## Abstract
 Over here I should write shortly what this paper is about, their hypothesis and their main findings
