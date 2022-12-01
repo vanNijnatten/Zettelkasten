@@ -6,6 +6,13 @@ cssclass: home
 publish: true
 ---
 ## How to take notes from a journal article
+**Quick way**
+1. Title
+2. Conclusion
+3. Abstract
+4. Results
+
+**Longer way**
 1. Title - pull out your keywords
 2. Abstract - results + methods
 3. Intro - first and last paragraph of Intro
