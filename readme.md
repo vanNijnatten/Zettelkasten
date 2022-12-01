@@ -16,7 +16,7 @@ See also [[note-taking]] and [[tags]].
  - [[lung-disease]]
  - [[signaling-pathway]]
  - [[snp]]
- - [[writing]]
+ - [[writing-lists]]
 
 **Current Focus (papers):**
 ```dataview
