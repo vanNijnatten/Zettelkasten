@@ -15,6 +15,7 @@ publish: false
 ## Electronics
 - Garmin inReach Mini 2 (A$582.08)
   - CaseSack Case for Garmin inReach Mini, inReach Mini 2 (A$55.99)
-- Garmin Enduro 2 GPS Watch (A$1,749.00)
-- Ulanzi & COMAN Lightweight Travel Tripod (US$369.95)
-- $$\cdot$$
+- Garmin Enduro 2 GPS Watch (A$1,749.00) or
+- Garmin Fenix 7 GSP Watch(A$942.79)
+- Ulanzi & COMAN Lightweight Travel Tripod (A$499.95)
+- 
