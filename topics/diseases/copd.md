@@ -13,6 +13,7 @@ publish: true
   - [[copd-diagnosis|COPD diagnosis]]
   - [[copd-pathology|COPD pathology]]
   - COPD severity -> COPD diagnosis
+    - SEO-COPD: lower age, after less packyears, mostly women
   - COPD
   - [[inflammation]]
   - [[smoking]]
