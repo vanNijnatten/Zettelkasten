@@ -1,12 +1,15 @@
 ---
-tags: 🧍
+tags:
+  - _type/person
+  - p_j_barnes
 aliases:
   - P.J. Barnes
   - P. J. Barnes
   - Peter J. Barnes
   - P. Barnes
   - Peter Barnes
-cssclass: idea
+cssclasses:
+  - idea
 publish: true
 ---
 ## About
@@ -16,7 +19,7 @@ publish: true
 ## Papers
 ```dataview
 list title
-from "papers" and -#🏡 
+from "papers" and -#_home 
 where !contains(file.name, "template")
 and contains(file.name, "@")
 and (

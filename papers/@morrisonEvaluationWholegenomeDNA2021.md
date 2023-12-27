@@ -1,5 +1,5 @@
 ---
-tags: 🔬
+tags: _type/article
 title: "Evaluation of whole-genome DNA methylation sequencing library preparation protocols"
 aliases:
   - morrison2021

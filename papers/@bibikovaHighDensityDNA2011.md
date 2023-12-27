@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "High density DNA methylation array with single CpG site resolution"
 aliases:
   - bibikova2011

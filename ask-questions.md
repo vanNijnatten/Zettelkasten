@@ -1,5 +1,5 @@
 ---
-tags: 🏛
+tags: _durability/permanent
 aliases:
  - ask-questions
  - ask questions

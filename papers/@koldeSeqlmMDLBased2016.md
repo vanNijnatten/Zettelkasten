@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "Seqlm: An MDL based method for identifying differentially methylated regions in high density methylation array data"
 aliases:
   - kolde2016

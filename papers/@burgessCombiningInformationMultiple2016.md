@@ -1,5 +1,5 @@
 ---
-tags: 📊
+tags: _type/statistics
 title: "Combining information on multiple instrumental variables in Mendelian randomization: Comparison of allele score and summarized data methods"
 aliases:
   - burgess2016

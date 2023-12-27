@@ -1,5 +1,5 @@
 ---
-tags: 🔬 📱
+tags: _type/article _type/tool
 title: "Comparison of novel and existing methods for detecting differentially methylated regions"
 aliases:
   - lent2018

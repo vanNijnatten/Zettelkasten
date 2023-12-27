@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "Genome-wide DNA methylation profiling using Infinium <sup>®</sup> assay"
 aliases:
   - bibikova2009

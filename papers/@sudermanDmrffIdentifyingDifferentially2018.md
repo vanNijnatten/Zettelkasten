@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "Dmrff: Identifying differentially methylated regions efficiently with power and control"
 aliases:
   - suderman2018

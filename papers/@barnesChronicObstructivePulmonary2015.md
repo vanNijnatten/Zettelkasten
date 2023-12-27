@@ -1,5 +1,5 @@
 ---
-tags: 🚀
+tags: _type/review
 title: "Chronic obstructive pulmonary disease"
 aliases:
   - barnes2015

@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "A data-driven approach to preprocessing Illumina 450K methylation array data"
 aliases:
   - pidsley2013

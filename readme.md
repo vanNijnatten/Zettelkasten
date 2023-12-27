@@ -1,5 +1,5 @@
 ---
-tags: 🏡
+tags: _home
 aliases: [home]
 cssclass: home
 publish: true
@@ -10,24 +10,47 @@ This is a new zettelkasten project, to organize my thoughts on the many papers I
 See also [[note-taking|note taking]], [[ask-questions|ask questions]] and [[tags]].
 
 ## Entry points to the digital garden
- - [[databases]]
- - [[gene]]
- - [[immune-system]]
  - [[lung-disease]]
- - [[signaling-pathway]]
- - [[snp]]
- - [[writing-lists]]
+ - [[writing-ideas]]
 
-**Current Focus (papers):**
+**To Read:**
 ```dataview
-list
-from #🔖  and #🏛 and -#🏡 
+list 
+from #_status/to_read and -#_home
 where !contains(file.name, "template")
 ```
 
-**Current Focus (ideas):**
+**To Edit:**
 ```dataview
-list
-from #🔖  and -#🏛 and -#🏡 
+list 
+from #_status/to_edit and -#_home
 where !contains(file.name, "template")
 ```
+
+**To Do:**
+```dataview
+list 
+from #_status/to_do and -#_home
+where !contains(file.name, "template")
+```
+
+**Doing:**
+```dataview
+list 
+from #_status/doing and -#_home
+where !contains(file.name, "template")
+```
+
+**Done:**
+```dataview
+list
+from #_status/done  and -#_home 
+where !contains(file.name, "template")
+```
+
+## Plugins used for this Obsidian project
+- [Obsidian Citations](https://github.com/hans/obsidian-citation-plugin)
+- [Obsidian Footnotes](https://github.com/MichaBrugger/obsidian-footnotes)
+- [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin)
+- [Editor Syntax Highlighter](https://github.com/deathau/cm-editor-syntax-highlight-obsidian)
+- And some more normal ones.

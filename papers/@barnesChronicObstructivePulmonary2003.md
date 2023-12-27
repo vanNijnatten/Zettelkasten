@@ -1,5 +1,5 @@
 ---
-tags: 🚀
+tags: _type/review
 title: "Chronic obstructive pulmonary disease: Molecular and cellularmechanisms"
 aliases:
   - barnes2003

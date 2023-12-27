@@ -5,7 +5,11 @@
 .obsidian/workspace
 .obsidian/workspace.json
 
+# References
+*.bib
+
 # MaxOS
 .DS_Store
-Zotero-Library.bib
 
+# Pandoc
+.pandoc/

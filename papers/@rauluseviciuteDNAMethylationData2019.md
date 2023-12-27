@@ -1,5 +1,5 @@
 ---
-tags: 🚀
+tags: _type/review
 title: "DNA methylation data by sequencing: Experimental approaches and recommendations for tools and pipelines for data analysis"
 aliases:
   - rauluseviciute2019

@@ -1,5 +1,5 @@
 ---
-tags: 🔬 📱
+tags: _type/article _type/tool
 title: "Detecting differentially methylated regions with multiple distinct associations"
 aliases:
   - lent2021

@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "Comb-p: Software for combining, analyzing, grouping and correcting spatially correlated P-values"
 aliases:
   - pedersen2012

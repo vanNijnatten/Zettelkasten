@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA methylation microarrays"
 aliases:
   - aryee2014

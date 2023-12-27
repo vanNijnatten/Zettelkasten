@@ -1,5 +1,5 @@
 ---
-tags: 🔬
+tags: _type/article
 title: "Foxa2 regulates alveolarization and goblet cell hyperplasia"
 aliases:
   - wan2004

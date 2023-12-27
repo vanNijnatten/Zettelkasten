@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "De novo identification of differentially methylated regions in the human genome"
 aliases:
   - peters2015

@@ -1,5 +1,5 @@
 ---
-tags: 🏛
+tags: _durability/permanent
 aliases:
  - note-taking
  - note taking

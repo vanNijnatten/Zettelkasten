@@ -1,12 +1,15 @@
 ---
-tags: 🧍
+tags:
+  - _type/person
+  - e_k_silverman
 aliases:
   - E.K. Silverman
   - E. K. Silverman
   - Edwin K. Silverman
   - E. Silverman
   - Edwin Silverman
-cssclass: idea
+cssclasses:
+  - idea
 publish: true
 ---
 ## About
@@ -16,7 +19,7 @@ publish: true
 ## Papers
 ```dataview
 list title
-from "papers" and -#🏡 
+from "papers" and -#_home 
 where !contains(file.name, "template")
 and contains(file.name, "@")
 and (

@@ -1,5 +1,5 @@
 ---
-tags: 📱
+tags: _type/tool
 title: "Bump hunting to identify differentially methylated regions in epigenetic epidemiology studies"
 aliases:
   - jaffe2012
