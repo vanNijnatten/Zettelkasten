@@ -1,6 +1,6 @@
 ---
 tags:
-  -
+  - _type/idea
 aliases:
   - statistics
 cssclasses:

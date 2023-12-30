@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - _type/idea
 aliases:
   - programming
 cssclasses:

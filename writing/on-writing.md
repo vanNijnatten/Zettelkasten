@@ -1,6 +1,6 @@
 ---
 tags:
-  - _durability/permanent
+  - _durability/fleeting
 aliases:
   - Notes on writing
 cssclasses:

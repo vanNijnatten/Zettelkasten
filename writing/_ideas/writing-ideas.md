@@ -9,8 +9,6 @@ cssclasses:
   - idea
 publish: false
 ---
-See also [[writing]].
-
 # Writings Ideas
 - [[bioinformatics-writing|Bioinformatics]]
 - [[linux-writing|Linux]]
