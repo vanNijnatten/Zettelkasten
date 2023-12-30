@@ -103,5 +103,4 @@ A wrapper tool around Cutadapt and FastQC to consistently apply quality and adap
 **Languages:** N/A
 **Source:** [Website](https://www.mirbase.org)
 **Tutorial:** N/A
-
-**miRBase 22.1 Downloads**: [Hairpin](ftp://mirbase.org/pub/mirbase/22.1/hairpin.fa.gz) / [Hairpin highconf](ftp://mirbase.org/pub/mirbase/22.1/hairpin_high_conf.fa.gz) / [Mature](ftp://mirbase.org/pub/mirbase/22.1/mature.fa.gz) / [Mature highconf](ftp://mirbase.org/pub/mirbase/22.1/mature_high_conf.fa.gz) / [Everything](ftp://mirbase.org/pub/mirbase/22.1/)
+**Reference data**: [[reference-data#^0873a0]]
