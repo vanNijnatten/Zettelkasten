@@ -16,7 +16,7 @@ This note should mention
 - DMRs packages review: [[@lentDetectingDifferentiallyMethylated2021|lent2021]], [[@sudermanDmrffIdentifyingDifferentially2018|suderman2018]]
 - DMR packages: [[@lentComparisonNovelExisting2018|lent2018]] (dmrff), [[@pedersenCombpSoftwareCombining2012|pedersen2012]](comb-p), [[@petersNovoIdentificationDifferentially2015|peters2015]](dmrcate), [[@koldeSeqlmMDLBased2016|kolde2016]](seqlm), [[@jaffeBumpHuntingIdentify2012|jaffe2012]](bumphunter), (globalP), (Aclust), (GetisDMR), (DMRFinder), (Probe Lasso), (DMRMark), (SKAT), (aSPUw)
 
-To date, a number of methods have been developed to detect/quantify DNA methylation including: high-performance capillary electrophoresis (4) and methylation-sensitive arbitrarily primed PCR (5). However, the most common technique used today remains the bisulfite conversion method (6). This technique involves treating methylated DNA with bisulfite, which converts unmethylated cytosines into uracil. Methylated cytosines remain unchanged during the treatment. Once converted, the methylation profile of the DNA can be determined by PCR amplification followed by DNA sequencing (see next page).
+To date, a number of methods have been developed to detect/quantify DNA methylation including: high-performance capillary electrophoresis (4) and methylation-sensitive arbitrarily primed PCR (5). However, the most common technique used today remains the bisulfite conversion method (6). This technique involves treating methylated DNA with bisulfite, which converts unmethylated cytosines into uracil. Methylated cytosines remain unchanged during the treatment. Once converted, the methylation profile of the DNA can be determined by PCR amplification followed by DNA sequencing (see next page). https://fnkprddata.blob.core.windows.net/domestic/data/datasheet/ZYR/D5023.pdf
 (spontaneous) deamination = cytosine => uracil. uracil-DNA glycosylase  is there to repair the DNA
 5-methylcytosine => thymine. uracil-DNA glycosylase cannot repair the DNA. Mismatch repair (really inefficient) via thymine-DNA glycosylase (TDG). Because of this inefficient mechanism, methylation is the most stable epigenetic marker.
 CG suppression
@@ -24,6 +24,8 @@ cpg-island = at least 200 bp in length, GC% > 50%, Observed/Expected CpG ratio >
 cpg sites are expected to occur in the genome at 6,...%, however only occur about 1%
 SssI methylase, which globally methylates all double-stranded CpG sites
 bisulfite conversion can fragment DNA ?
+Ten‑eleven translocation (TET) enzymes remove methylation: 5mC is first converted to 5-hydroxymethyl cytosine (5hmC), Then to 5-formylcytosine (5fC), then to 5-carboxylcytosine (5caC), each by TET1-3 (Ito et al., 2011), 5fC and 5caC can both be converted to unmodified Cytosine by Terminal deoxynucleotidyl transferase (TdT).
+DNA methyltransferases (DNMTs) are present in the human genome. Three of them (DNMT1, DNMT3A and DNMT3B) catalyze the addition of a methyl-group to 5mC. Two (DNMT2 and DNMT3L) have the motif present to do so, but lack the DNMT activity.
 
 ## Methylation methods
 A number of methods have been developed to detect and quantify DNA methylation:
@@ -58,11 +60,15 @@ https://www.zymoresearch.com/products/ez-96-dna-methylation-kit
 
 https://www.youtube.com/watch?v=bc3wtVXyAXo
 
+## Statistics
+Because commonly used β values are heteroscedastic, M values were used for all statistical tests where equal variance is assumed ([29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4068945/#bib29), [30](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4068945/#bib30))
 
-
-Gene
+## Gene
 regulatory region, transcription start, 5' untranslated region, start codon, open reading frame, stop codon, 3' untranslated region, transcription end
 upstream enhancer, tata box (transcription start), promotor sequences, introns, exons
 x chromosome silencing
-
+- Genes involved in DNA methylation: ... [^1]
+  - DNA methyltransferases (DNMTs: [[DNMT1]], [[DNMT3A]], [[DNMT3B]])
 ## References
+
+[^1]: [[@mooreDNAMethylationIts2013|Moore2013]]

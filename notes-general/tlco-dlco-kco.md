@@ -16,7 +16,7 @@ publish: true
 ...
 
 ## DLco and TLco
-Single-breath diffusion capacity of the lung, for the uptake of carbon monoxide (DLco, also known as transfer factor or transfer capacity, TLco)
+Single-breath **d**iffusion capacity of the **l**ung, for the uptake of **c**arbon **m**onoxide (DLco, also known as transfer factor or transfer capacity, TLco)
 
 ## Kco
 Transfer coefficient of the lung, for the update of carbon monoxide (Kco), is DLco corrected for alveolar volume.

@@ -18,7 +18,13 @@ publish: true
   - [[inflammation]]
   - [[smoking]]
   - 
-  - Neutrophilia in copd +faster movement?
+  - Neutrophilia in copd +faster movement? ^bb674c
+    - innate immune system, great numbers, especially in tissue
+    - airway surveilance
+    - antimicrobial functions
+    - low RNA content?:
+      - highly organised, compact chromatin. RNAses (in blood)
+    - 
   - muscle distrophy?
   - goblet cell hyperplasia?
   - [[alfa-1-antitrypsine|Alfa 1-antitrypsine]]

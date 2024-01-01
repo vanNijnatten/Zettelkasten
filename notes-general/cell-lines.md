@@ -38,6 +38,9 @@ Liver cells (?)
 ## K562
 ???
 
+## HBEC
+???
+
 # Cell Culture
 **DMEM:** Dulbecco's Modified Eagle's Medium (DMEM)
 
